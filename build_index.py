@@ -74,14 +74,14 @@ def main():
                     "immunities & resistances (mcoc.gg labels: potency / conditional / duration) | reacts to | tags\n\n")
             f.write("\n".join(d for _, d in chunk) + "\n")
         ranges.append(f"- {RAW}{fname} : {chunk[0][0][0]} - {chunk[-1][0][0]}")
-        index_rows += [" | ".join(b + [f"{n:02d}"]) for b, _ in chunk]
+        index_rows += [" | ".join([b[0], b[1], b[3], b[4], f"{n:02d}", f"https://mcoc.gg/json/champions/{b[2]}.json"]) for b, _ in chunk]
 
     with open("index.md", "w", encoding="utf-8") as f:
         f.write(
             f"# MCOC Champion Index ({len(recs)} champions, source: mcoc.gg public data, refreshed daily)\n\n"
-            "Ability text: https://mcoc.gg/json/champions/<file>.json\n\n"
+            "Ability text: open the link in the last column of the champion's row.\n\n"
             "Detail files (effects, immunities, reacts-to, tags):\n" + "\n".join(ranges) + "\n\n"
-            "Columns: name | alias | file | class | release date | details file\n\n"
+            "Columns: name | alias | class | release date | details file | ability text link\n\n"
             + "\n".join(index_rows) + "\n")
     print(f"{len(recs)} champions, {len(chunks)} detail files")
 
