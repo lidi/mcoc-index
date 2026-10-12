@@ -76,7 +76,8 @@ def main():
         ranges.append(f"- {RAW}{fname} : {chunk[0][0][0]} - {chunk[-1][0][0]}")
         index_rows += [" | ".join([b[0], b[1], b[3], b[4], f"{n:02d}", f"https://mcoc.gg/json/champions/{b[2]}.json"]) for b, _ in chunk]
 
-    with open("index.md", "w", encoding="utf-8") as f:
+    for out in ("index.md", "champions.md"):
+      with open(out, "w", encoding="utf-8") as f:
         f.write(
             f"# MCOC Champion Index ({len(recs)} champions, source: mcoc.gg public data, refreshed daily)\n\n"
             "Ability text: open the link in the last column of the champion's row.\n\n"
