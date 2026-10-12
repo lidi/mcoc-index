@@ -1,6 +1,6 @@
 # MCOC Champion Index (364 champions, source: mcoc.gg public data, refreshed daily)
 
-Ability text: https://mcoc.gg/json/champions/<file>.json
+Ability text: open the link in the last column of the champion's row.
 
 Detail files (effects, immunities, reacts-to, tags):
 - https://raw.githubusercontent.com/lidi/mcoc-index/main/details/01.md : Abomination - Falcon (Joaquin Torres)
@@ -8,369 +8,369 @@ Detail files (effects, immunities, reacts-to, tags):
 - https://raw.githubusercontent.com/lidi/mcoc-index/main/details/03.md : Misty Knight - Spider-Man 2099
 - https://raw.githubusercontent.com/lidi/mcoc-index/main/details/04.md : Spider-Man Noir - Yondu
 
-Columns: name | alias | file | class | release date | details file
+Columns: name | alias | class | release date | details file | ability text link
 
-Abomination |  | abomination | Science | 12/10/2014 | 01
-Abomination (Immortal) | iBom | abominationimmortal | Science | 11/26/2020 | 01
-Absorbing Man | Abs Man | absorbingman | Mystic | 1/19/2023 | 01
-Adam Warlock |  | adamwarlock | Cosmic | 5/25/2023 | 01
-Aegon |  | aegon | Skill | 11/22/2018 | 01
-Agatha Harkness |  | agatha | Mystic | 8/13/2026 | 01
-Agent Venom |  | agentvenom | Skill | 4/4/2016 | 01
-Air-Walker |  | airwalker | Cosmic | 8/13/2020 | 01
-America Chavez |  | americachavez | Mystic | 7/29/2021 | 01
-Angela |  | angela | Cosmic | 4/13/2017 | 01
-Annihilus |  | annihilus | Cosmic | 4/4/2019 | 01
-Ant-Man |  | antman | Science | 7/9/2015 | 01
-Ant-Man (Future) | FAM | antmanfuture | Tech | 3/2/2023 | 01
-Anti-Venom |  | antivenom | Science | 10/14/2021 | 01
-Anti-Venomoid (Cosmic) |  | antivenomoidcosmic | Cosmic | 8/8/2025 | 01
-Anti-Venomoid (Mutant) |  | antivenomoidmutant | Mutant | 8/8/2025 | 01
-Anti-Venomoid (Mystic) |  | antivenomoidmystic | Mystic | 8/8/2025 | 01
-Anti-Venomoid (Science) |  | antivenomoidscience | Science | 8/8/2025 | 01
-Anti-Venomoid (Skill) |  | antivenomoidskill | Skill | 8/8/2025 | 01
-Anti-Venomoid (Tech) |  | antivenomoidtech | Tech | 8/8/2025 | 01
-Apocalypse |  | apocalypse | Mutant | 9/24/2020 | 01
-Arcade |  | arcade | Tech | 6/13/2024 | 01
-Archangel | AA | archangel | Mutant | 3/2/2017 | 01
-Arnim Zola |  | arnimzola | Tech | 2/13/2025 | 01
-Attuma |  | attuma | Skill | 12/1/2022 | 01
-Baron Zemo |  | baronzemo | Skill | 1/26/2023 | 01
-Bastion |  | bastion | Tech | 3/27/2025 | 01
-Beast |  | beast | Mutant | 7/21/2016 | 01
-Beta Ray Bill |  | betaraybill | Cosmic | 8/15/2024 | 01
-Bishop |  | bishop | Mutant | 3/14/2018 | 01
-Black Bolt |  | blackbolt | Cosmic | 12/10/2014 | 01
-Black Cat |  | blackcat | Skill | 4/14/2022 | 01
-Black Panther | BP | blackpanther | Skill | 12/10/2014 | 01
-Black Panther (Civil War) | BPCW | blackpanthercivilwar | Skill | 5/26/2016 | 01
-Black Tarantula |  | blacktarantula | Skill | 7/30/2026 | 01
-Black Widow | BW | blackwidow | Skill | 5/7/2015 | 01
-Black Widow (Claire Voyant) | BWCV | blackwidowclairevoyant | Mystic | 9/5/2019 | 01
-Black Widow (Deadly Origin) | BWDO | bwdo | Skill | 5/4/2020 | 01
-Blade |  | blade | Skill | 10/26/2017 | 01
-Blade (Stellar-Forged) |  | stellarblade | Mystic | 4/29/2026 | 01
-Blue Marvel |  | bluemarvel | Science | 2/26/2026 | 01
-Bullseye |  | bullseye | Skill | 1/18/2024 | 01
-Cable |  | cable | Mutant | 1/19/2017 | 01
-Captain America |  | captainamerica | Science | 12/10/2014 | 01
-Captain America (Infinity War) | CapIW | captainamericaiw | Science | 5/10/2018 | 01
-Captain America (Sam Wilson) |  | samwilson | Tech | 2/18/2022 | 01
-Captain America (WWII) |  | captainamericawwii | Science | 7/2/2015 | 01
-Captain Britain |  | captainbritain | Mutant | 3/17/2022 | 01
-Captain Marvel | cmm | captainmarvelmcu | Cosmic | 3/7/2019 | 01
-Captain Marvel (Classic) |  | captainmarvel | Cosmic | 1/8/2015 | 01
-Carina |  | carina | Cosmic | 10/12/2026 | 01
-Carnage |  | carnage | Cosmic | 6/8/2017 | 01
-Cassandra Nova |  | cassandra | Mutant | 8/21/2025 | 01
-Cassie Lang |  | cassielang | Science | 2/16/2023 | 01
-Chee'ilth |  | cheeilth | Skill | 11/30/2023 | 01
-Civil Warrior |  | civilwarrior | Tech | 6/30/2016 | 01
-Colossus |  | colossus | Mutant | 12/10/2014 | 01
-Colossus (Age of Apocalypse) |  | colossusaoa | Mutant | 10/15/2026 | 01
-Corvus Glaive |  | corvusglaive | Cosmic | 4/26/2018 | 01
-Cosmic Ghost Rider | CGR | cosmicghostrider | Cosmic | 10/22/2020 | 01
-Count Nefaria |  | countnefaria | Science | 9/12/2024 | 01
-Crossbones |  | crossbones | Skill | 5/12/2016 | 01
-Cull Obsidian |  | cullobsidian | Cosmic | 5/16/2019 | 01
-Cyclops (Blue Team) |  | cyclopsblueteam | Mutant | 1/21/2016 | 01
-Cyclops (New Xavier School) |  | cyclops | Mutant | 12/10/2014 | 01
-Dani Moonstar |  | danimoonstar | Mutant | 6/15/2023 | 01
-Daredevil (Classic) | Daredevil | daredevil | Skill | 4/16/2016 | 01
-Daredevil (Hell's Kitchen) | DDHK | daredevilnetflix | Skill | 11/19/2015 | 01
-Dark Phoenix | DP | darkphoenix | Cosmic | 5/7/2025 | 01
-Darkhawk |  | darkhawk | Tech | 12/20/2018 | 01
-Dazzler |  | dazzler | Mutant | 11/28/2024 | 01
-Deadpool |  | deadpool | Mutant | 12/10/2014 | 01
-Deadpool (X-Force) | DPX | deadpoolxforce | Mutant | 9/17/2015 | 01
-Diablo |  | diablo | Mystic | 1/24/2019 | 01
-Doctor Bong |  | doctorbong | Skill | 4/30/2026 | 01
-Doctor Doom |  | doctordoom | Mystic | 11/14/2019 | 01
-Doctor Octopus | Otto | doctoroctopus | Tech | 8/17/2017 | 01
-Doctor Strange | Dr Strange | doctorstrange | Mystic | 3/19/2015 | 01
-Doctor Voodoo |  | doctorvoodoo | Mystic | 11/24/2016 | 01
-Domino |  | domino | Mutant | 6/7/2018 | 01
-Doombot (Cosmic) |  | doombotcosmic | Cosmic | 7/24/2025 | 01
-Doombot (Mutant) |  | doombotmutant | Mutant | 7/24/2025 | 01
-Doombot (Mystic) |  | doombotmystic | Mystic | 7/24/2025 | 01
-Doombot (Science) |  | doombotscience | Science | 7/24/2025 | 01
-Doombot (Skill) |  | doombotskill | Skill | 7/24/2025 | 01
-Doombot (Tech) |  | doombottech | Tech | 7/24/2025 | 01
-Dormammu |  | dormammu | Mystic | 2/16/2017 | 01
-Dracula |  | dracula | Mystic | 10/16/2025 | 01
-Dragon Man |  | dragonman | Mystic | 8/27/2020 | 01
-Drax |  | drax | Cosmic | 12/10/2014 | 01
-Dust |  | dust | Mutant | 2/29/2024 | 01
-Ebony Maw |  | ebonymaw | Mystic | 5/31/2019 | 01
-Electro |  | electro | Science | 2/6/2015 | 01
-Elektra |  | elektra | Skill | 10/8/2015 | 01
-Elsa Bloodstone |  | elsabloodstone | Skill | 10/3/2019 | 01
-Emma Frost |  | emmafrost | Mutant | 9/27/2018 | 01
-Enchantress |  | enchantress | Mystic | 8/29/2024 | 01
-Falcon |  | falcon | Skill | 6/9/2016 | 01
-Falcon (Joaquin Torres) |  | falcontorres | Science | 2/27/2025 | 01
-Franken-Castle |  | frankencastle | Skill | 10/30/2025 | 02
-Galan |  | galan | Cosmic | 8/11/2022 | 02
-Gambit |  | gambit | Mutant | 8/18/2016 | 02
-Gamora |  | gamora | Cosmic | 12/10/2014 | 02
-Gentle |  | gentle | Mutant | 1/30/2025 | 02
-Ghost |  | ghost | Tech | 7/19/2018 | 02
-Ghost Rider |  | ghostrider | Mystic | 10/27/2016 | 02
-Ghost Rider (Robbie Reyes) |  | ghostriderreyes | Mystic | 10/29/2026 | 02
-Gladiator |  | gladiator | Cosmic | 9/14/2023 | 02
-Goldpool |  | goldpool | Mutant | 6/6/2018 | 02
-Gorr |  | gorr | Cosmic | 7/14/2022 | 02
-Green Goblin |  | greengoblin | Tech | 8/3/2017 | 02
-Green Goblin (Stellar Forged) |  | stellargreengoblin | Science | 9/16/2026 | 02
-Groot |  | groot | Cosmic | 12/24/2015 | 02
-Guardian |  | guardian | Tech | 7/9/2020 | 02
-Guillotine |  | guillotine | Mystic | 11/22/2015 | 02
-Guillotine (Deathless) |  | deathlessguillotine | Mystic | 12/20/2023 | 02
-Guillotine 2099 |  | guillotine2099 | Tech | 10/31/2019 | 02
-Gwenom |  | gwenom | Cosmic | 9/9/2026 | 02
-Gwenpool |  | gwenpool | Skill | 1/5/2017 | 02
-Havok |  | havok | Mutant | 2/7/2019 | 02
-Hawkeye |  | hawkeye | Skill | 12/10/2014 | 02
-Heimdall |  | heimdall | Cosmic | 8/16/2018 | 02
-Hela |  | hela | Cosmic | 11/23/2017 | 02
-Henchpool (Cosmic) |  | henchpoolcosmic | Cosmic | 11/13/2024 | 02
-Henchpool (Mutant) |  | henchpoolmutant | Mutant | 11/13/2024 | 02
-Henchpool (Mystic) |  | henchpoolmystic | Mystic | 11/13/2024 | 02
-Henchpool (Science) |  | henchpoolscience | Science | 11/13/2024 | 02
-Henchpool (Skill) |  | henchpoolskill | Skill | 11/13/2024 | 02
-Henchpool (Tech) |  | henchpooltech | Tech | 11/13/2024 | 02
-Hercules |  | hercules | Cosmic | 7/15/2021 | 02
-High Evolutionary |  | highevolutionary | Science | 7/31/2025 | 02
-Hit-Monkey |  | hitmonkey | Skill | 6/25/2020 | 02
-Hobgoblin |  | hobgoblin | Tech | 7/16/2026 | 02
-Howard The Duck |  | howardtheduck | Tech | 12/22/2016 | 02
-Hulk |  | hulk | Science | 12/10/2014 | 02
-Hulk (Immortal) | ihulk | hulkimmortal | Science | 11/12/2020 | 02
-Hulk (Ragnarok) | GHulk | hulkragnarok | Science | 2/1/2018 | 02
-Hulkbuster |  | hulkbuster | Tech | 5/21/2015 | 02
-Hulkling |  | hulkling | Cosmic | 6/16/2022 | 02
-Human Torch |  | humantorch | Science | 4/18/2019 | 02
-Hyperion |  | hyperion | Cosmic | 12/8/2016 | 02
-Iceman |  | iceman | Mutant | 3/30/2017 | 02
-Ikaris |  | ikaris | Cosmic | 11/25/2021 | 02
-Imperiosa |  | imperiosa | Cosmic | 12/9/2025 | 02
-Invisible Woman |  | invisiblewoman | Science | 6/27/2019 | 02
-Iron Fist |  | ironfist | Mystic | 12/10/2014 | 02
-Iron Fist (Immortal) |  | ironfistimmortal | Mystic | 8/20/2015 | 02
-Iron Man |  | ironman | Tech | 12/10/2014 | 02
-Iron Man (Infamous) | iDoom | ironmaninfamous | Tech | 9/29/2022 | 02
-Iron Man (Infinity War) | IMIW | ironmaninfinitywar | Tech | 5/24/2018 | 02
-Iron Patriot |  | ironpatriot | Tech | 7/2/2015 | 02
-Ironheart |  | ironheart | Tech | 2/15/2024 | 02
-Isophyne |  | isophyne | Mystic | 12/19/2024 | 02
-Jabari Panther |  | jabaripanther | Skill | 4/15/2021 | 02
-Jack O'Lantern |  | jackolantern | Tech | 10/31/2024 | 02
-Jean Grey |  | jeangrey | Mutant | 3/13/2025 | 02
-Jessica Jones |  | jessicajones | Science | 12/22/2022 | 02
-Joe Fixit |  | joefixit | Science | 10/15/2015 | 02
-Jubilee |  | jubilee | Mutant | 1/14/2021 | 02
-Juggernaut |  | juggernaut | Mystic | 12/10/2014 | 02
-Kang |  | kang | Tech | 12/10/2014 | 02
-Karnak |  | karnak | Skill | 9/1/2016 | 02
-Karolina Dean |  | karolinadean | Cosmic | 6/26/2025 | 02
-Kate Bishop |  | katebishop | Skill | 3/30/2023 | 02
-Killmonger |  | killmonger | Skill | 2/15/2018 | 02
-Kindred |  | kindred | Mystic | 8/3/2023 | 02
-King Groot |  | kinggroot | Cosmic | 4/27/2017 | 02
-King Groot (Deathless) |  | deathlesskinggroot | Cosmic | 4/4/2024 | 02
-Kingpin |  | kingpin | Skill | 8/31/2017 | 02
-Kitty Pryde |  | kittypryde | Mutant | 9/9/2021 | 02
-Knull |  | knull | Cosmic | 10/28/2021 | 02
-Korg |  | korg | Skill | 8/30/2018 | 02
-Kraven |  | kraven | Skill | 12/9/2021 | 02
-Kushala |  | kushala | Mystic | 11/16/2023 | 02
-Lady Deathstrike |  | ladydeathstrike | Tech | 6/29/2023 | 02
-Lizard |  | lizard | Science | 11/13/2025 | 02
-Loki |  | loki | Mystic | 8/4/2016 | 02
-Longshot |  | longshot | Mystic | 2/13/2020 | 02
-Luke Cage | Papa Luke | lukecage | Science | 11/26/2015 | 02
-Lumatrix |  | lumatrix | Skill | 4/9/2025 | 02
-M'Baku | mbaku | mbaku | Skill | 2/12/2026 | 02
-M.O.D.O.K. | MODOK | modok | Science | 12/21/2017 | 02
-Madelyne Pryor |  | madelynepryor | Mystic | 3/26/2026 | 02
-Maestro |  | maestro | Cosmic | 11/15/2023 | 02
-Magik |  | magik | Mystic | 1/22/2015 | 02
-Magneto |  | magneto | Mutant | 6/18/2015 | 02
-Magneto (House of X) |  | magnetomarvelnow | Mutant | 8/27/2015 | 02
-Man-Thing |  | manthing | Mystic | 10/17/2019 | 02
-Mangog |  | mangog | Mystic | 3/11/2021 | 02
-Mantis |  | mantis | Skill | 12/15/2022 | 02
-Masacre |  | masacre | Skill | 6/21/2018 | 02
-Medusa |  | medusa | Cosmic | 9/14/2017 | 02
-Mephisto |  | mephisto | Mystic | 9/28/2017 | 02
-Mister Fantastic | Reed | misterfantastic | Science | 11/28/2019 | 02
-Mister Negative | Negs | misternegative | Science | 5/27/2021 | 02
-Mister Sinister |  | mistersinister | Mutant | 2/11/2019 | 02
-Misty Knight |  | mistyknight | Skill | 3/3/2022 | 03
-Mojo |  | mojo | Mystic | 2/27/2020 | 03
-Mole Man |  | moleman | Skill | 3/12/2020 | 03
-Moon Knight |  | moonknight | Skill | 9/24/2015 | 03
-Moondragon |  | moondragon | Skill | 5/11/2023 | 03
-Morbius |  | morbius | Science | 10/13/2023 | 03
-Mordo |  | mordo | Mystic | 11/10/2016 | 03
-Morningstar |  | morningstar | Mystic | 10/12/2017 | 03
-Mr. Knight |  | mrknight | Skill | 9/25/2025 | 03
-Ms. Marvel |  | msmarvel | Cosmic | 4/2/2015 | 03
-Ms. Marvel (Kamala Khan) |  | msmarvelkamalakhan | Cosmic | 3/31/2016 | 03
-Mysterio |  | mysterio | Tech | 7/25/2019 | 03
-Namor |  | namor | Mutant | 6/13/2019 | 03
-Nebula |  | nebula | Tech | 5/11/2017 | 03
-Negasonic Teenage Warhead |  | negasonic | Mutant | 5/16/2024 | 03
-Nick Fury |  | nickfury | Skill | 3/12/2019 | 03
-Nico Minoru |  | nicominoru | Mystic | 6/12/2025 | 03
-Night Thrasher |  | nightthrasher | Skill | 12/6/2018 | 03
-Nightcrawler |  | nightcrawler | Mutant | 7/7/2016 | 03
-Nimrod |  | nimrod | Tech | 9/23/2021 | 03
-Northstar |  | northstar | Mutant | 7/27/2024 | 03
-Nova |  | nova | Cosmic | 1/23/2020 | 03
-Odin |  | odin | Cosmic | 3/25/2021 | 03
-Okoye |  | okoye | Skill | 1/16/2025 | 03
-Old Man Logan |  | oldmanlogan | Mutant | 2/4/2016 | 03
-Omega Red |  | omegared | Mutant | 9/13/2018 | 03
-Omega Sentinel |  | omegasentinel | Tech | 3/31/2022 | 03
-Onslaught |  | onslaught | Mutant | 12/14/2023 | 03
-Patriot |  | patriot | Skill | 7/18/2024 | 03
-Peni Parker |  | peniparker | Tech | 8/26/2021 | 03
-Phoenix |  | phoenix | Cosmic | 11/13/2016 | 03
-Photon |  | photon | Science | 8/17/2023 | 03
-Phyla-Vell |  | phylavell | Cosmic | 6/11/2026 | 03
-Pixie |  | pixie | Mutant | 3/12/2026 | 03
-Platinumpool |  | platinumpool | Mutant | 9/2/2020 | 03
-Professor X |  | professorx | Mutant | 9/10/2020 | 03
-Prowler |  | prowler | Tech | 4/11/2024 | 03
-Proxima Midnight |  | proximamidnight | Cosmic | 4/12/2018 | 03
-Psycho-Man |  | psychoman | Tech | 2/11/2021 | 03
-Psylocke |  | psylocke | Mutant | 3/16/2017 | 03
-Punisher |  | punisher | Skill | 12/10/2014 | 03
-Punisher 2099 |  | punisher2099 | Tech | 6/29/2017 | 03
-Purgatory |  | purgatory | Mystic | 6/10/2021 | 03
-Quake |  | quake | Science | 9/29/2016 | 03
-Quicksilver |  | quicksilver | Science | 8/26/2022 | 03
-Red Goblin |  | redgoblin | Cosmic | 10/8/2020 | 03
-Red Guardian |  | redguardian | Science | 5/28/2020 | 03
-Red Hulk |  | redhulk | Science | 4/28/2016 | 03
-Red Skull |  | redskull | Tech | 8/2/2018 | 03
-Rhino |  | rhino | Science | 12/10/2014 | 03
-Rintrah |  | rintrah | Mystic | 5/12/2022 | 03
-Rocket Raccoon |  | rocketraccoon | Tech | 3/5/2015 | 03
-Rogue |  | rogue | Mutant | 9/15/2016 | 03
-Ronan |  | ronan | Cosmic | 12/10/2014 | 03
-Ronin |  | ronin | Skill | 5/2/2019 | 03
-Ruby Thursday |  | rubythursday | Tech | 4/16/2026 | 03
-Sabretooth |  | sabretooth | Mutant | 3/29/2018 | 03
-Sandman |  | sandman | Science | 4/27/2023 | 03
-Sasquatch | Sassy | sasquatch | Mystic | 7/23/2020 | 03
-Sauron |  | sauron | Mutant | 1/27/2022 | 03
-Scarlet Witch |  | scarletwitchsigil | Mystic | 6/7/2021 | 03
-Scarlet Witch (Classic) |  | scarletwitch | Mystic | 12/10/2014 | 03
-Scorpion |  | scorpion | Science | 4/28/2022 | 03
-Scream |  | scream | Cosmic | 10/17/2024 | 03
-Sentinel |  | sentinel | Tech | 3/1/2018 | 03
-Sentinelbot (Cosmic) |  | sentinelbotcosmic | Cosmic | 10/8/2025 | 03
-Sentinelbot (Mutant) |  | sentinelbotmutant | Mutant | 10/8/2025 | 03
-Sentinelbot (Mystic) |  | sentinelbotmystic | Mystic | 10/8/2025 | 03
-Sentinelbot (Science) |  | sentinelbotscience | Science | 10/8/2025 | 03
-Sentinelbot (Skill) |  | sentinelbotskill | Skill | 10/8/2025 | 03
-Sentinelbot (Tech) |  | sentinelbottech | Tech | 10/8/2025 | 03
-Sentry |  | sentry | Science | 1/4/2018 | 03
-Sersi |  | sersi | Cosmic | 11/11/2021 | 03
-Shang-Chi |  | shangchi | Skill | 5/13/2021 | 03
-Shathra |  | shathra | Mystic | 9/26/2024 | 03
-Shatterstar |  | shatterstar | Mutant | 6/25/2026 | 03
-She-Hulk |  | shehulk | Science | 3/3/2016 | 03
-She-Hulk (Deathless) |  | deathlessshehulk | Science | 12/20/2024 | 03
-Shocker |  | shocker | Tech | 4/13/2023 | 03
-Shuri |  | shuri | Tech | 11/17/2022 | 03
-Silk |  | silk | Science | 7/20/2023 | 03
-Silver Centurion |  | silvercenturion | Tech | 4/29/2021 | 03
-Silver Sable |  | silversable | Skill | 5/30/2024 | 03
-Silver Samurai |  | silversamurai | Mutant | 9/11/2025 | 03
-Silver Surfer |  | silversurfer | Cosmic | 12/12/2019 | 03
-Solvarch |  | solvarch | Tech | 8/7/2025 | 03
-Sorcerer Supreme |  | sorcerersupreme | Mystic | 4/9/2020 | 03
-Spider-Gwen |  | spidergwen | Science | 11/12/2015 | 03
-Spider-Ham | Ham | spiderham | Science | 12/10/2020 | 03
-Spider-Man (Classic) |  | spiderman | Science | 12/10/2014 | 03
-Spider-Man (Miles Morales) |  | spidermanmilesmorales | Science | 1/7/2016 | 03
-Spider-Man (Pavitr Prabhakar) |  | pavitr | Mystic | 11/5/2025 | 03
-Spider-Man (Stark Enhanced) | Starky | spidermanstarkenhanced | Tech | 7/6/2017 | 03
-Spider-Man (Stealth Suit) |  | spidermanstealthsuit | Skill | 7/11/2019 | 03
-Spider-Man (Supreme) |  | spidermansupreme | Mystic | 10/13/2022 | 03
-Spider-Man (Symbiote) |  | spidermansymbiote | Cosmic | 9/10/2015 | 03
-Spider-Man 2099 |  | spiderman2099 | Science | 8/12/2021 | 03
-Spider-Man Noir |  | spidermannoir | Skill | 9/24/2026 | 04
-Spider-Punk | Punk | spiderpunk | Science | 4/25/2024 | 04
-Spider-Slayer (J. Jonah Jameson) | JJJ | jjj | Tech | 1/15/2026 | 04
-Spider-Woman |  | spiderwoman | Science | 4/17/2025 | 04
-Spiral |  | spiral | Mystic | 11/14/2024 | 04
-Spot |  | spot | Science | 10/27/2022 | 04
-Squirrel Girl |  | squirrelgirl | Skill | 1/9/2020 | 04
-Star-Lord |  | starlord | Tech | 12/10/2014 | 04
-Star-Lord (Stellar-Forged) |  | stellarstarlord | Skill | 1/28/2026 | 04
-Storm |  | storm | Mutant | 12/10/2014 | 04
-Storm (Pyramid X) |  | stormpyramidx | Mutant | 4/23/2020 | 04
-Stryfe |  | stryfe | Mutant | 1/28/2021 | 04
-Summoned Symbiote | Steve | summonedsymbiote | Superior | 10/2/2018 | 04
-Sunspot |  | sunspot | Mutant | 8/8/2019 | 04
-Super Skrull |  | superskrull | Cosmic | 2/25/2021 | 04
-Superior Iron Man |  | superiorironman | Cosmic | 2/19/2015 | 04
-Symbioid (Cosmic) |  | symbioidcosmic | Cosmic | 8/8/2025 | 04
-Symbioid (Mutant) |  | symbioidmutant | Mutant | 8/8/2025 | 04
-Symbioid (Mystic) |  | symbioidmystic | Mystic | 8/8/2025 | 04
-Symbioid (Science) |  | symbioidscience | Science | 8/8/2025 | 04
-Symbioid (Skill) |  | symbioidskill | Skill | 8/8/2025 | 04
-Symbioid (Tech) |  | symbioidtech | Tech | 8/8/2025 | 04
-Symbiote Supreme |  | symbiotesupreme | Mystic | 10/11/2018 | 04
-Taskmaster |  | taskmaster | Skill | 12/7/2017 | 04
-Terrax | Terry | terrax | Cosmic | 3/26/2020 | 04
-Thanos |  | thanos | Cosmic | 8/17/2016 | 04
-Thanos (Deathless) |  | deathlessthanos | Cosmic | 1/8/2025 | 04
-The Champion |  | thechampion | Cosmic | 11/8/2018 | 04
-The Destroyer |  | thedestroyer | Mystic | 3/28/2024 | 04
-The Hood |  | thehood | Mystic | 2/2/2017 | 04
-The Leader |  | theleader | Science | 8/1/2024 | 04
-The Maker |  | themaker | Tech | 7/17/2025 | 04
-The Overseer |  | theoverseer | Science | 6/24/2021 | 04
-The Serpent |  | theserpent | Cosmic | 3/14/2024 | 04
-Thing |  | thing | Science | 1/10/2019 | 04
-Thor |  | thor | Cosmic | 12/10/2014 | 04
-Thor (Jane Foster) |  | thorjanefoster | Mystic | 12/10/2015 | 04
-Thor (Ragnarok) |  | thorragnarok | Skill | 11/9/2017 | 04
-Tigra |  | tigra | Mystic | 6/11/2020 | 04
-Titania |  | titania | Science | 9/15/2022 | 04
-Toad |  | toad | Mutant | 1/13/2022 | 04
-Ultron |  | ultron | Tech | 6/4/2015 | 04
-Ultron (Classic) |  | ultronclassic | Tech | 8/17/2016 | 04
-Unstoppable Colossus |  | unstoppablecolossus | Mystic | 2/25/2015 | 04
-Valkyrie |  | valkyrie | Skill | 7/28/2022 | 04
-Venom |  | venom | Cosmic | 10/29/2015 | 04
-Venom the Duck | VTD | venomtheduck | Cosmic | 10/16/2018 | 04
-Venompool |  | venompool | Cosmic | 2/18/2016 | 04
-Vision |  | vision | Tech | 12/10/2014 | 04
-Vision (Aarkus) |  | visionaarkus | Cosmic | 9/19/2019 | 04
-Vision (Age of Ultron) |  | visionaou | Tech | 5/14/2015 | 04
-Vision (Deathless) |  | deathlessvision | Tech | 7/20/2024 | 04
-Viv Vision |  | vivvision | Tech | 3/16/2023 | 04
-Void |  | void | Science | 1/18/2018 | 04
-Vox |  | vox | Cosmic | 8/31/2023 | 04
-Vulture |  | vulture | Tech | 7/20/2017 | 04
-War Machine |  | warmachine | Tech | 8/14/2015 | 04
-Warlock |  | warlock | Tech | 8/22/2019 | 04
-Wasp |  | wasp | Science | 7/5/2018 | 04
-Wave |  | wave | Science | 5/28/2026 | 04
-Werewolf By Night | Wolf | werewolfbynight | Mystic | 10/27/2023 | 04
-White Tiger |  | whitetiger | Mystic | 2/1/2024 | 04
-Wiccan |  | wiccan | Mystic | 6/30/2022 | 04
-Winter Soldier |  | wintersoldier | Skill | 12/10/2014 | 04
-Wolverine |  | wolverine | Mutant | 12/10/2014 | 04
-Wolverine (Weapon X) |  | weaponx | Mutant | 3/11/2020 | 04
-Wolverine (X-23) | Laura | wolverinex23 | Mutant | 3/17/2016 | 04
-Wong | Wongers | wong | Mystic | 5/26/2022 | 04
-Yelena Belova |  | yelenabelova | Skill | 5/15/2025 | 04
-Yellowjacket |  | yellowjacket | Science | 7/30/2015 | 04
-Yondu |  | yondu | Tech | 5/25/2017 | 04
+Abomination |  | Science | 12/10/2014 | 01 | https://mcoc.gg/json/champions/abomination.json
+Abomination (Immortal) | iBom | Science | 11/26/2020 | 01 | https://mcoc.gg/json/champions/abominationimmortal.json
+Absorbing Man | Abs Man | Mystic | 1/19/2023 | 01 | https://mcoc.gg/json/champions/absorbingman.json
+Adam Warlock |  | Cosmic | 5/25/2023 | 01 | https://mcoc.gg/json/champions/adamwarlock.json
+Aegon |  | Skill | 11/22/2018 | 01 | https://mcoc.gg/json/champions/aegon.json
+Agatha Harkness |  | Mystic | 8/13/2026 | 01 | https://mcoc.gg/json/champions/agatha.json
+Agent Venom |  | Skill | 4/4/2016 | 01 | https://mcoc.gg/json/champions/agentvenom.json
+Air-Walker |  | Cosmic | 8/13/2020 | 01 | https://mcoc.gg/json/champions/airwalker.json
+America Chavez |  | Mystic | 7/29/2021 | 01 | https://mcoc.gg/json/champions/americachavez.json
+Angela |  | Cosmic | 4/13/2017 | 01 | https://mcoc.gg/json/champions/angela.json
+Annihilus |  | Cosmic | 4/4/2019 | 01 | https://mcoc.gg/json/champions/annihilus.json
+Ant-Man |  | Science | 7/9/2015 | 01 | https://mcoc.gg/json/champions/antman.json
+Ant-Man (Future) | FAM | Tech | 3/2/2023 | 01 | https://mcoc.gg/json/champions/antmanfuture.json
+Anti-Venom |  | Science | 10/14/2021 | 01 | https://mcoc.gg/json/champions/antivenom.json
+Anti-Venomoid (Cosmic) |  | Cosmic | 8/8/2025 | 01 | https://mcoc.gg/json/champions/antivenomoidcosmic.json
+Anti-Venomoid (Mutant) |  | Mutant | 8/8/2025 | 01 | https://mcoc.gg/json/champions/antivenomoidmutant.json
+Anti-Venomoid (Mystic) |  | Mystic | 8/8/2025 | 01 | https://mcoc.gg/json/champions/antivenomoidmystic.json
+Anti-Venomoid (Science) |  | Science | 8/8/2025 | 01 | https://mcoc.gg/json/champions/antivenomoidscience.json
+Anti-Venomoid (Skill) |  | Skill | 8/8/2025 | 01 | https://mcoc.gg/json/champions/antivenomoidskill.json
+Anti-Venomoid (Tech) |  | Tech | 8/8/2025 | 01 | https://mcoc.gg/json/champions/antivenomoidtech.json
+Apocalypse |  | Mutant | 9/24/2020 | 01 | https://mcoc.gg/json/champions/apocalypse.json
+Arcade |  | Tech | 6/13/2024 | 01 | https://mcoc.gg/json/champions/arcade.json
+Archangel | AA | Mutant | 3/2/2017 | 01 | https://mcoc.gg/json/champions/archangel.json
+Arnim Zola |  | Tech | 2/13/2025 | 01 | https://mcoc.gg/json/champions/arnimzola.json
+Attuma |  | Skill | 12/1/2022 | 01 | https://mcoc.gg/json/champions/attuma.json
+Baron Zemo |  | Skill | 1/26/2023 | 01 | https://mcoc.gg/json/champions/baronzemo.json
+Bastion |  | Tech | 3/27/2025 | 01 | https://mcoc.gg/json/champions/bastion.json
+Beast |  | Mutant | 7/21/2016 | 01 | https://mcoc.gg/json/champions/beast.json
+Beta Ray Bill |  | Cosmic | 8/15/2024 | 01 | https://mcoc.gg/json/champions/betaraybill.json
+Bishop |  | Mutant | 3/14/2018 | 01 | https://mcoc.gg/json/champions/bishop.json
+Black Bolt |  | Cosmic | 12/10/2014 | 01 | https://mcoc.gg/json/champions/blackbolt.json
+Black Cat |  | Skill | 4/14/2022 | 01 | https://mcoc.gg/json/champions/blackcat.json
+Black Panther | BP | Skill | 12/10/2014 | 01 | https://mcoc.gg/json/champions/blackpanther.json
+Black Panther (Civil War) | BPCW | Skill | 5/26/2016 | 01 | https://mcoc.gg/json/champions/blackpanthercivilwar.json
+Black Tarantula |  | Skill | 7/30/2026 | 01 | https://mcoc.gg/json/champions/blacktarantula.json
+Black Widow | BW | Skill | 5/7/2015 | 01 | https://mcoc.gg/json/champions/blackwidow.json
+Black Widow (Claire Voyant) | BWCV | Mystic | 9/5/2019 | 01 | https://mcoc.gg/json/champions/blackwidowclairevoyant.json
+Black Widow (Deadly Origin) | BWDO | Skill | 5/4/2020 | 01 | https://mcoc.gg/json/champions/bwdo.json
+Blade |  | Skill | 10/26/2017 | 01 | https://mcoc.gg/json/champions/blade.json
+Blade (Stellar-Forged) |  | Mystic | 4/29/2026 | 01 | https://mcoc.gg/json/champions/stellarblade.json
+Blue Marvel |  | Science | 2/26/2026 | 01 | https://mcoc.gg/json/champions/bluemarvel.json
+Bullseye |  | Skill | 1/18/2024 | 01 | https://mcoc.gg/json/champions/bullseye.json
+Cable |  | Mutant | 1/19/2017 | 01 | https://mcoc.gg/json/champions/cable.json
+Captain America |  | Science | 12/10/2014 | 01 | https://mcoc.gg/json/champions/captainamerica.json
+Captain America (Infinity War) | CapIW | Science | 5/10/2018 | 01 | https://mcoc.gg/json/champions/captainamericaiw.json
+Captain America (Sam Wilson) |  | Tech | 2/18/2022 | 01 | https://mcoc.gg/json/champions/samwilson.json
+Captain America (WWII) |  | Science | 7/2/2015 | 01 | https://mcoc.gg/json/champions/captainamericawwii.json
+Captain Britain |  | Mutant | 3/17/2022 | 01 | https://mcoc.gg/json/champions/captainbritain.json
+Captain Marvel | cmm | Cosmic | 3/7/2019 | 01 | https://mcoc.gg/json/champions/captainmarvelmcu.json
+Captain Marvel (Classic) |  | Cosmic | 1/8/2015 | 01 | https://mcoc.gg/json/champions/captainmarvel.json
+Carina |  | Cosmic | 10/12/2026 | 01 | https://mcoc.gg/json/champions/carina.json
+Carnage |  | Cosmic | 6/8/2017 | 01 | https://mcoc.gg/json/champions/carnage.json
+Cassandra Nova |  | Mutant | 8/21/2025 | 01 | https://mcoc.gg/json/champions/cassandra.json
+Cassie Lang |  | Science | 2/16/2023 | 01 | https://mcoc.gg/json/champions/cassielang.json
+Chee'ilth |  | Skill | 11/30/2023 | 01 | https://mcoc.gg/json/champions/cheeilth.json
+Civil Warrior |  | Tech | 6/30/2016 | 01 | https://mcoc.gg/json/champions/civilwarrior.json
+Colossus |  | Mutant | 12/10/2014 | 01 | https://mcoc.gg/json/champions/colossus.json
+Colossus (Age of Apocalypse) |  | Mutant | 10/15/2026 | 01 | https://mcoc.gg/json/champions/colossusaoa.json
+Corvus Glaive |  | Cosmic | 4/26/2018 | 01 | https://mcoc.gg/json/champions/corvusglaive.json
+Cosmic Ghost Rider | CGR | Cosmic | 10/22/2020 | 01 | https://mcoc.gg/json/champions/cosmicghostrider.json
+Count Nefaria |  | Science | 9/12/2024 | 01 | https://mcoc.gg/json/champions/countnefaria.json
+Crossbones |  | Skill | 5/12/2016 | 01 | https://mcoc.gg/json/champions/crossbones.json
+Cull Obsidian |  | Cosmic | 5/16/2019 | 01 | https://mcoc.gg/json/champions/cullobsidian.json
+Cyclops (Blue Team) |  | Mutant | 1/21/2016 | 01 | https://mcoc.gg/json/champions/cyclopsblueteam.json
+Cyclops (New Xavier School) |  | Mutant | 12/10/2014 | 01 | https://mcoc.gg/json/champions/cyclops.json
+Dani Moonstar |  | Mutant | 6/15/2023 | 01 | https://mcoc.gg/json/champions/danimoonstar.json
+Daredevil (Classic) | Daredevil | Skill | 4/16/2016 | 01 | https://mcoc.gg/json/champions/daredevil.json
+Daredevil (Hell's Kitchen) | DDHK | Skill | 11/19/2015 | 01 | https://mcoc.gg/json/champions/daredevilnetflix.json
+Dark Phoenix | DP | Cosmic | 5/7/2025 | 01 | https://mcoc.gg/json/champions/darkphoenix.json
+Darkhawk |  | Tech | 12/20/2018 | 01 | https://mcoc.gg/json/champions/darkhawk.json
+Dazzler |  | Mutant | 11/28/2024 | 01 | https://mcoc.gg/json/champions/dazzler.json
+Deadpool |  | Mutant | 12/10/2014 | 01 | https://mcoc.gg/json/champions/deadpool.json
+Deadpool (X-Force) | DPX | Mutant | 9/17/2015 | 01 | https://mcoc.gg/json/champions/deadpoolxforce.json
+Diablo |  | Mystic | 1/24/2019 | 01 | https://mcoc.gg/json/champions/diablo.json
+Doctor Bong |  | Skill | 4/30/2026 | 01 | https://mcoc.gg/json/champions/doctorbong.json
+Doctor Doom |  | Mystic | 11/14/2019 | 01 | https://mcoc.gg/json/champions/doctordoom.json
+Doctor Octopus | Otto | Tech | 8/17/2017 | 01 | https://mcoc.gg/json/champions/doctoroctopus.json
+Doctor Strange | Dr Strange | Mystic | 3/19/2015 | 01 | https://mcoc.gg/json/champions/doctorstrange.json
+Doctor Voodoo |  | Mystic | 11/24/2016 | 01 | https://mcoc.gg/json/champions/doctorvoodoo.json
+Domino |  | Mutant | 6/7/2018 | 01 | https://mcoc.gg/json/champions/domino.json
+Doombot (Cosmic) |  | Cosmic | 7/24/2025 | 01 | https://mcoc.gg/json/champions/doombotcosmic.json
+Doombot (Mutant) |  | Mutant | 7/24/2025 | 01 | https://mcoc.gg/json/champions/doombotmutant.json
+Doombot (Mystic) |  | Mystic | 7/24/2025 | 01 | https://mcoc.gg/json/champions/doombotmystic.json
+Doombot (Science) |  | Science | 7/24/2025 | 01 | https://mcoc.gg/json/champions/doombotscience.json
+Doombot (Skill) |  | Skill | 7/24/2025 | 01 | https://mcoc.gg/json/champions/doombotskill.json
+Doombot (Tech) |  | Tech | 7/24/2025 | 01 | https://mcoc.gg/json/champions/doombottech.json
+Dormammu |  | Mystic | 2/16/2017 | 01 | https://mcoc.gg/json/champions/dormammu.json
+Dracula |  | Mystic | 10/16/2025 | 01 | https://mcoc.gg/json/champions/dracula.json
+Dragon Man |  | Mystic | 8/27/2020 | 01 | https://mcoc.gg/json/champions/dragonman.json
+Drax |  | Cosmic | 12/10/2014 | 01 | https://mcoc.gg/json/champions/drax.json
+Dust |  | Mutant | 2/29/2024 | 01 | https://mcoc.gg/json/champions/dust.json
+Ebony Maw |  | Mystic | 5/31/2019 | 01 | https://mcoc.gg/json/champions/ebonymaw.json
+Electro |  | Science | 2/6/2015 | 01 | https://mcoc.gg/json/champions/electro.json
+Elektra |  | Skill | 10/8/2015 | 01 | https://mcoc.gg/json/champions/elektra.json
+Elsa Bloodstone |  | Skill | 10/3/2019 | 01 | https://mcoc.gg/json/champions/elsabloodstone.json
+Emma Frost |  | Mutant | 9/27/2018 | 01 | https://mcoc.gg/json/champions/emmafrost.json
+Enchantress |  | Mystic | 8/29/2024 | 01 | https://mcoc.gg/json/champions/enchantress.json
+Falcon |  | Skill | 6/9/2016 | 01 | https://mcoc.gg/json/champions/falcon.json
+Falcon (Joaquin Torres) |  | Science | 2/27/2025 | 01 | https://mcoc.gg/json/champions/falcontorres.json
+Franken-Castle |  | Skill | 10/30/2025 | 02 | https://mcoc.gg/json/champions/frankencastle.json
+Galan |  | Cosmic | 8/11/2022 | 02 | https://mcoc.gg/json/champions/galan.json
+Gambit |  | Mutant | 8/18/2016 | 02 | https://mcoc.gg/json/champions/gambit.json
+Gamora |  | Cosmic | 12/10/2014 | 02 | https://mcoc.gg/json/champions/gamora.json
+Gentle |  | Mutant | 1/30/2025 | 02 | https://mcoc.gg/json/champions/gentle.json
+Ghost |  | Tech | 7/19/2018 | 02 | https://mcoc.gg/json/champions/ghost.json
+Ghost Rider |  | Mystic | 10/27/2016 | 02 | https://mcoc.gg/json/champions/ghostrider.json
+Ghost Rider (Robbie Reyes) |  | Mystic | 10/29/2026 | 02 | https://mcoc.gg/json/champions/ghostriderreyes.json
+Gladiator |  | Cosmic | 9/14/2023 | 02 | https://mcoc.gg/json/champions/gladiator.json
+Goldpool |  | Mutant | 6/6/2018 | 02 | https://mcoc.gg/json/champions/goldpool.json
+Gorr |  | Cosmic | 7/14/2022 | 02 | https://mcoc.gg/json/champions/gorr.json
+Green Goblin |  | Tech | 8/3/2017 | 02 | https://mcoc.gg/json/champions/greengoblin.json
+Green Goblin (Stellar Forged) |  | Science | 9/16/2026 | 02 | https://mcoc.gg/json/champions/stellargreengoblin.json
+Groot |  | Cosmic | 12/24/2015 | 02 | https://mcoc.gg/json/champions/groot.json
+Guardian |  | Tech | 7/9/2020 | 02 | https://mcoc.gg/json/champions/guardian.json
+Guillotine |  | Mystic | 11/22/2015 | 02 | https://mcoc.gg/json/champions/guillotine.json
+Guillotine (Deathless) |  | Mystic | 12/20/2023 | 02 | https://mcoc.gg/json/champions/deathlessguillotine.json
+Guillotine 2099 |  | Tech | 10/31/2019 | 02 | https://mcoc.gg/json/champions/guillotine2099.json
+Gwenom |  | Cosmic | 9/9/2026 | 02 | https://mcoc.gg/json/champions/gwenom.json
+Gwenpool |  | Skill | 1/5/2017 | 02 | https://mcoc.gg/json/champions/gwenpool.json
+Havok |  | Mutant | 2/7/2019 | 02 | https://mcoc.gg/json/champions/havok.json
+Hawkeye |  | Skill | 12/10/2014 | 02 | https://mcoc.gg/json/champions/hawkeye.json
+Heimdall |  | Cosmic | 8/16/2018 | 02 | https://mcoc.gg/json/champions/heimdall.json
+Hela |  | Cosmic | 11/23/2017 | 02 | https://mcoc.gg/json/champions/hela.json
+Henchpool (Cosmic) |  | Cosmic | 11/13/2024 | 02 | https://mcoc.gg/json/champions/henchpoolcosmic.json
+Henchpool (Mutant) |  | Mutant | 11/13/2024 | 02 | https://mcoc.gg/json/champions/henchpoolmutant.json
+Henchpool (Mystic) |  | Mystic | 11/13/2024 | 02 | https://mcoc.gg/json/champions/henchpoolmystic.json
+Henchpool (Science) |  | Science | 11/13/2024 | 02 | https://mcoc.gg/json/champions/henchpoolscience.json
+Henchpool (Skill) |  | Skill | 11/13/2024 | 02 | https://mcoc.gg/json/champions/henchpoolskill.json
+Henchpool (Tech) |  | Tech | 11/13/2024 | 02 | https://mcoc.gg/json/champions/henchpooltech.json
+Hercules |  | Cosmic | 7/15/2021 | 02 | https://mcoc.gg/json/champions/hercules.json
+High Evolutionary |  | Science | 7/31/2025 | 02 | https://mcoc.gg/json/champions/highevolutionary.json
+Hit-Monkey |  | Skill | 6/25/2020 | 02 | https://mcoc.gg/json/champions/hitmonkey.json
+Hobgoblin |  | Tech | 7/16/2026 | 02 | https://mcoc.gg/json/champions/hobgoblin.json
+Howard The Duck |  | Tech | 12/22/2016 | 02 | https://mcoc.gg/json/champions/howardtheduck.json
+Hulk |  | Science | 12/10/2014 | 02 | https://mcoc.gg/json/champions/hulk.json
+Hulk (Immortal) | ihulk | Science | 11/12/2020 | 02 | https://mcoc.gg/json/champions/hulkimmortal.json
+Hulk (Ragnarok) | GHulk | Science | 2/1/2018 | 02 | https://mcoc.gg/json/champions/hulkragnarok.json
+Hulkbuster |  | Tech | 5/21/2015 | 02 | https://mcoc.gg/json/champions/hulkbuster.json
+Hulkling |  | Cosmic | 6/16/2022 | 02 | https://mcoc.gg/json/champions/hulkling.json
+Human Torch |  | Science | 4/18/2019 | 02 | https://mcoc.gg/json/champions/humantorch.json
+Hyperion |  | Cosmic | 12/8/2016 | 02 | https://mcoc.gg/json/champions/hyperion.json
+Iceman |  | Mutant | 3/30/2017 | 02 | https://mcoc.gg/json/champions/iceman.json
+Ikaris |  | Cosmic | 11/25/2021 | 02 | https://mcoc.gg/json/champions/ikaris.json
+Imperiosa |  | Cosmic | 12/9/2025 | 02 | https://mcoc.gg/json/champions/imperiosa.json
+Invisible Woman |  | Science | 6/27/2019 | 02 | https://mcoc.gg/json/champions/invisiblewoman.json
+Iron Fist |  | Mystic | 12/10/2014 | 02 | https://mcoc.gg/json/champions/ironfist.json
+Iron Fist (Immortal) |  | Mystic | 8/20/2015 | 02 | https://mcoc.gg/json/champions/ironfistimmortal.json
+Iron Man |  | Tech | 12/10/2014 | 02 | https://mcoc.gg/json/champions/ironman.json
+Iron Man (Infamous) | iDoom | Tech | 9/29/2022 | 02 | https://mcoc.gg/json/champions/ironmaninfamous.json
+Iron Man (Infinity War) | IMIW | Tech | 5/24/2018 | 02 | https://mcoc.gg/json/champions/ironmaninfinitywar.json
+Iron Patriot |  | Tech | 7/2/2015 | 02 | https://mcoc.gg/json/champions/ironpatriot.json
+Ironheart |  | Tech | 2/15/2024 | 02 | https://mcoc.gg/json/champions/ironheart.json
+Isophyne |  | Mystic | 12/19/2024 | 02 | https://mcoc.gg/json/champions/isophyne.json
+Jabari Panther |  | Skill | 4/15/2021 | 02 | https://mcoc.gg/json/champions/jabaripanther.json
+Jack O'Lantern |  | Tech | 10/31/2024 | 02 | https://mcoc.gg/json/champions/jackolantern.json
+Jean Grey |  | Mutant | 3/13/2025 | 02 | https://mcoc.gg/json/champions/jeangrey.json
+Jessica Jones |  | Science | 12/22/2022 | 02 | https://mcoc.gg/json/champions/jessicajones.json
+Joe Fixit |  | Science | 10/15/2015 | 02 | https://mcoc.gg/json/champions/joefixit.json
+Jubilee |  | Mutant | 1/14/2021 | 02 | https://mcoc.gg/json/champions/jubilee.json
+Juggernaut |  | Mystic | 12/10/2014 | 02 | https://mcoc.gg/json/champions/juggernaut.json
+Kang |  | Tech | 12/10/2014 | 02 | https://mcoc.gg/json/champions/kang.json
+Karnak |  | Skill | 9/1/2016 | 02 | https://mcoc.gg/json/champions/karnak.json
+Karolina Dean |  | Cosmic | 6/26/2025 | 02 | https://mcoc.gg/json/champions/karolinadean.json
+Kate Bishop |  | Skill | 3/30/2023 | 02 | https://mcoc.gg/json/champions/katebishop.json
+Killmonger |  | Skill | 2/15/2018 | 02 | https://mcoc.gg/json/champions/killmonger.json
+Kindred |  | Mystic | 8/3/2023 | 02 | https://mcoc.gg/json/champions/kindred.json
+King Groot |  | Cosmic | 4/27/2017 | 02 | https://mcoc.gg/json/champions/kinggroot.json
+King Groot (Deathless) |  | Cosmic | 4/4/2024 | 02 | https://mcoc.gg/json/champions/deathlesskinggroot.json
+Kingpin |  | Skill | 8/31/2017 | 02 | https://mcoc.gg/json/champions/kingpin.json
+Kitty Pryde |  | Mutant | 9/9/2021 | 02 | https://mcoc.gg/json/champions/kittypryde.json
+Knull |  | Cosmic | 10/28/2021 | 02 | https://mcoc.gg/json/champions/knull.json
+Korg |  | Skill | 8/30/2018 | 02 | https://mcoc.gg/json/champions/korg.json
+Kraven |  | Skill | 12/9/2021 | 02 | https://mcoc.gg/json/champions/kraven.json
+Kushala |  | Mystic | 11/16/2023 | 02 | https://mcoc.gg/json/champions/kushala.json
+Lady Deathstrike |  | Tech | 6/29/2023 | 02 | https://mcoc.gg/json/champions/ladydeathstrike.json
+Lizard |  | Science | 11/13/2025 | 02 | https://mcoc.gg/json/champions/lizard.json
+Loki |  | Mystic | 8/4/2016 | 02 | https://mcoc.gg/json/champions/loki.json
+Longshot |  | Mystic | 2/13/2020 | 02 | https://mcoc.gg/json/champions/longshot.json
+Luke Cage | Papa Luke | Science | 11/26/2015 | 02 | https://mcoc.gg/json/champions/lukecage.json
+Lumatrix |  | Skill | 4/9/2025 | 02 | https://mcoc.gg/json/champions/lumatrix.json
+M'Baku | mbaku | Skill | 2/12/2026 | 02 | https://mcoc.gg/json/champions/mbaku.json
+M.O.D.O.K. | MODOK | Science | 12/21/2017 | 02 | https://mcoc.gg/json/champions/modok.json
+Madelyne Pryor |  | Mystic | 3/26/2026 | 02 | https://mcoc.gg/json/champions/madelynepryor.json
+Maestro |  | Cosmic | 11/15/2023 | 02 | https://mcoc.gg/json/champions/maestro.json
+Magik |  | Mystic | 1/22/2015 | 02 | https://mcoc.gg/json/champions/magik.json
+Magneto |  | Mutant | 6/18/2015 | 02 | https://mcoc.gg/json/champions/magneto.json
+Magneto (House of X) |  | Mutant | 8/27/2015 | 02 | https://mcoc.gg/json/champions/magnetomarvelnow.json
+Man-Thing |  | Mystic | 10/17/2019 | 02 | https://mcoc.gg/json/champions/manthing.json
+Mangog |  | Mystic | 3/11/2021 | 02 | https://mcoc.gg/json/champions/mangog.json
+Mantis |  | Skill | 12/15/2022 | 02 | https://mcoc.gg/json/champions/mantis.json
+Masacre |  | Skill | 6/21/2018 | 02 | https://mcoc.gg/json/champions/masacre.json
+Medusa |  | Cosmic | 9/14/2017 | 02 | https://mcoc.gg/json/champions/medusa.json
+Mephisto |  | Mystic | 9/28/2017 | 02 | https://mcoc.gg/json/champions/mephisto.json
+Mister Fantastic | Reed | Science | 11/28/2019 | 02 | https://mcoc.gg/json/champions/misterfantastic.json
+Mister Negative | Negs | Science | 5/27/2021 | 02 | https://mcoc.gg/json/champions/misternegative.json
+Mister Sinister |  | Mutant | 2/11/2019 | 02 | https://mcoc.gg/json/champions/mistersinister.json
+Misty Knight |  | Skill | 3/3/2022 | 03 | https://mcoc.gg/json/champions/mistyknight.json
+Mojo |  | Mystic | 2/27/2020 | 03 | https://mcoc.gg/json/champions/mojo.json
+Mole Man |  | Skill | 3/12/2020 | 03 | https://mcoc.gg/json/champions/moleman.json
+Moon Knight |  | Skill | 9/24/2015 | 03 | https://mcoc.gg/json/champions/moonknight.json
+Moondragon |  | Skill | 5/11/2023 | 03 | https://mcoc.gg/json/champions/moondragon.json
+Morbius |  | Science | 10/13/2023 | 03 | https://mcoc.gg/json/champions/morbius.json
+Mordo |  | Mystic | 11/10/2016 | 03 | https://mcoc.gg/json/champions/mordo.json
+Morningstar |  | Mystic | 10/12/2017 | 03 | https://mcoc.gg/json/champions/morningstar.json
+Mr. Knight |  | Skill | 9/25/2025 | 03 | https://mcoc.gg/json/champions/mrknight.json
+Ms. Marvel |  | Cosmic | 4/2/2015 | 03 | https://mcoc.gg/json/champions/msmarvel.json
+Ms. Marvel (Kamala Khan) |  | Cosmic | 3/31/2016 | 03 | https://mcoc.gg/json/champions/msmarvelkamalakhan.json
+Mysterio |  | Tech | 7/25/2019 | 03 | https://mcoc.gg/json/champions/mysterio.json
+Namor |  | Mutant | 6/13/2019 | 03 | https://mcoc.gg/json/champions/namor.json
+Nebula |  | Tech | 5/11/2017 | 03 | https://mcoc.gg/json/champions/nebula.json
+Negasonic Teenage Warhead |  | Mutant | 5/16/2024 | 03 | https://mcoc.gg/json/champions/negasonic.json
+Nick Fury |  | Skill | 3/12/2019 | 03 | https://mcoc.gg/json/champions/nickfury.json
+Nico Minoru |  | Mystic | 6/12/2025 | 03 | https://mcoc.gg/json/champions/nicominoru.json
+Night Thrasher |  | Skill | 12/6/2018 | 03 | https://mcoc.gg/json/champions/nightthrasher.json
+Nightcrawler |  | Mutant | 7/7/2016 | 03 | https://mcoc.gg/json/champions/nightcrawler.json
+Nimrod |  | Tech | 9/23/2021 | 03 | https://mcoc.gg/json/champions/nimrod.json
+Northstar |  | Mutant | 7/27/2024 | 03 | https://mcoc.gg/json/champions/northstar.json
+Nova |  | Cosmic | 1/23/2020 | 03 | https://mcoc.gg/json/champions/nova.json
+Odin |  | Cosmic | 3/25/2021 | 03 | https://mcoc.gg/json/champions/odin.json
+Okoye |  | Skill | 1/16/2025 | 03 | https://mcoc.gg/json/champions/okoye.json
+Old Man Logan |  | Mutant | 2/4/2016 | 03 | https://mcoc.gg/json/champions/oldmanlogan.json
+Omega Red |  | Mutant | 9/13/2018 | 03 | https://mcoc.gg/json/champions/omegared.json
+Omega Sentinel |  | Tech | 3/31/2022 | 03 | https://mcoc.gg/json/champions/omegasentinel.json
+Onslaught |  | Mutant | 12/14/2023 | 03 | https://mcoc.gg/json/champions/onslaught.json
+Patriot |  | Skill | 7/18/2024 | 03 | https://mcoc.gg/json/champions/patriot.json
+Peni Parker |  | Tech | 8/26/2021 | 03 | https://mcoc.gg/json/champions/peniparker.json
+Phoenix |  | Cosmic | 11/13/2016 | 03 | https://mcoc.gg/json/champions/phoenix.json
+Photon |  | Science | 8/17/2023 | 03 | https://mcoc.gg/json/champions/photon.json
+Phyla-Vell |  | Cosmic | 6/11/2026 | 03 | https://mcoc.gg/json/champions/phylavell.json
+Pixie |  | Mutant | 3/12/2026 | 03 | https://mcoc.gg/json/champions/pixie.json
+Platinumpool |  | Mutant | 9/2/2020 | 03 | https://mcoc.gg/json/champions/platinumpool.json
+Professor X |  | Mutant | 9/10/2020 | 03 | https://mcoc.gg/json/champions/professorx.json
+Prowler |  | Tech | 4/11/2024 | 03 | https://mcoc.gg/json/champions/prowler.json
+Proxima Midnight |  | Cosmic | 4/12/2018 | 03 | https://mcoc.gg/json/champions/proximamidnight.json
+Psycho-Man |  | Tech | 2/11/2021 | 03 | https://mcoc.gg/json/champions/psychoman.json
+Psylocke |  | Mutant | 3/16/2017 | 03 | https://mcoc.gg/json/champions/psylocke.json
+Punisher |  | Skill | 12/10/2014 | 03 | https://mcoc.gg/json/champions/punisher.json
+Punisher 2099 |  | Tech | 6/29/2017 | 03 | https://mcoc.gg/json/champions/punisher2099.json
+Purgatory |  | Mystic | 6/10/2021 | 03 | https://mcoc.gg/json/champions/purgatory.json
+Quake |  | Science | 9/29/2016 | 03 | https://mcoc.gg/json/champions/quake.json
+Quicksilver |  | Science | 8/26/2022 | 03 | https://mcoc.gg/json/champions/quicksilver.json
+Red Goblin |  | Cosmic | 10/8/2020 | 03 | https://mcoc.gg/json/champions/redgoblin.json
+Red Guardian |  | Science | 5/28/2020 | 03 | https://mcoc.gg/json/champions/redguardian.json
+Red Hulk |  | Science | 4/28/2016 | 03 | https://mcoc.gg/json/champions/redhulk.json
+Red Skull |  | Tech | 8/2/2018 | 03 | https://mcoc.gg/json/champions/redskull.json
+Rhino |  | Science | 12/10/2014 | 03 | https://mcoc.gg/json/champions/rhino.json
+Rintrah |  | Mystic | 5/12/2022 | 03 | https://mcoc.gg/json/champions/rintrah.json
+Rocket Raccoon |  | Tech | 3/5/2015 | 03 | https://mcoc.gg/json/champions/rocketraccoon.json
+Rogue |  | Mutant | 9/15/2016 | 03 | https://mcoc.gg/json/champions/rogue.json
+Ronan |  | Cosmic | 12/10/2014 | 03 | https://mcoc.gg/json/champions/ronan.json
+Ronin |  | Skill | 5/2/2019 | 03 | https://mcoc.gg/json/champions/ronin.json
+Ruby Thursday |  | Tech | 4/16/2026 | 03 | https://mcoc.gg/json/champions/rubythursday.json
+Sabretooth |  | Mutant | 3/29/2018 | 03 | https://mcoc.gg/json/champions/sabretooth.json
+Sandman |  | Science | 4/27/2023 | 03 | https://mcoc.gg/json/champions/sandman.json
+Sasquatch | Sassy | Mystic | 7/23/2020 | 03 | https://mcoc.gg/json/champions/sasquatch.json
+Sauron |  | Mutant | 1/27/2022 | 03 | https://mcoc.gg/json/champions/sauron.json
+Scarlet Witch |  | Mystic | 6/7/2021 | 03 | https://mcoc.gg/json/champions/scarletwitchsigil.json
+Scarlet Witch (Classic) |  | Mystic | 12/10/2014 | 03 | https://mcoc.gg/json/champions/scarletwitch.json
+Scorpion |  | Science | 4/28/2022 | 03 | https://mcoc.gg/json/champions/scorpion.json
+Scream |  | Cosmic | 10/17/2024 | 03 | https://mcoc.gg/json/champions/scream.json
+Sentinel |  | Tech | 3/1/2018 | 03 | https://mcoc.gg/json/champions/sentinel.json
+Sentinelbot (Cosmic) |  | Cosmic | 10/8/2025 | 03 | https://mcoc.gg/json/champions/sentinelbotcosmic.json
+Sentinelbot (Mutant) |  | Mutant | 10/8/2025 | 03 | https://mcoc.gg/json/champions/sentinelbotmutant.json
+Sentinelbot (Mystic) |  | Mystic | 10/8/2025 | 03 | https://mcoc.gg/json/champions/sentinelbotmystic.json
+Sentinelbot (Science) |  | Science | 10/8/2025 | 03 | https://mcoc.gg/json/champions/sentinelbotscience.json
+Sentinelbot (Skill) |  | Skill | 10/8/2025 | 03 | https://mcoc.gg/json/champions/sentinelbotskill.json
+Sentinelbot (Tech) |  | Tech | 10/8/2025 | 03 | https://mcoc.gg/json/champions/sentinelbottech.json
+Sentry |  | Science | 1/4/2018 | 03 | https://mcoc.gg/json/champions/sentry.json
+Sersi |  | Cosmic | 11/11/2021 | 03 | https://mcoc.gg/json/champions/sersi.json
+Shang-Chi |  | Skill | 5/13/2021 | 03 | https://mcoc.gg/json/champions/shangchi.json
+Shathra |  | Mystic | 9/26/2024 | 03 | https://mcoc.gg/json/champions/shathra.json
+Shatterstar |  | Mutant | 6/25/2026 | 03 | https://mcoc.gg/json/champions/shatterstar.json
+She-Hulk |  | Science | 3/3/2016 | 03 | https://mcoc.gg/json/champions/shehulk.json
+She-Hulk (Deathless) |  | Science | 12/20/2024 | 03 | https://mcoc.gg/json/champions/deathlessshehulk.json
+Shocker |  | Tech | 4/13/2023 | 03 | https://mcoc.gg/json/champions/shocker.json
+Shuri |  | Tech | 11/17/2022 | 03 | https://mcoc.gg/json/champions/shuri.json
+Silk |  | Science | 7/20/2023 | 03 | https://mcoc.gg/json/champions/silk.json
+Silver Centurion |  | Tech | 4/29/2021 | 03 | https://mcoc.gg/json/champions/silvercenturion.json
+Silver Sable |  | Skill | 5/30/2024 | 03 | https://mcoc.gg/json/champions/silversable.json
+Silver Samurai |  | Mutant | 9/11/2025 | 03 | https://mcoc.gg/json/champions/silversamurai.json
+Silver Surfer |  | Cosmic | 12/12/2019 | 03 | https://mcoc.gg/json/champions/silversurfer.json
+Solvarch |  | Tech | 8/7/2025 | 03 | https://mcoc.gg/json/champions/solvarch.json
+Sorcerer Supreme |  | Mystic | 4/9/2020 | 03 | https://mcoc.gg/json/champions/sorcerersupreme.json
+Spider-Gwen |  | Science | 11/12/2015 | 03 | https://mcoc.gg/json/champions/spidergwen.json
+Spider-Ham | Ham | Science | 12/10/2020 | 03 | https://mcoc.gg/json/champions/spiderham.json
+Spider-Man (Classic) |  | Science | 12/10/2014 | 03 | https://mcoc.gg/json/champions/spiderman.json
+Spider-Man (Miles Morales) |  | Science | 1/7/2016 | 03 | https://mcoc.gg/json/champions/spidermanmilesmorales.json
+Spider-Man (Pavitr Prabhakar) |  | Mystic | 11/5/2025 | 03 | https://mcoc.gg/json/champions/pavitr.json
+Spider-Man (Stark Enhanced) | Starky | Tech | 7/6/2017 | 03 | https://mcoc.gg/json/champions/spidermanstarkenhanced.json
+Spider-Man (Stealth Suit) |  | Skill | 7/11/2019 | 03 | https://mcoc.gg/json/champions/spidermanstealthsuit.json
+Spider-Man (Supreme) |  | Mystic | 10/13/2022 | 03 | https://mcoc.gg/json/champions/spidermansupreme.json
+Spider-Man (Symbiote) |  | Cosmic | 9/10/2015 | 03 | https://mcoc.gg/json/champions/spidermansymbiote.json
+Spider-Man 2099 |  | Science | 8/12/2021 | 03 | https://mcoc.gg/json/champions/spiderman2099.json
+Spider-Man Noir |  | Skill | 9/24/2026 | 04 | https://mcoc.gg/json/champions/spidermannoir.json
+Spider-Punk | Punk | Science | 4/25/2024 | 04 | https://mcoc.gg/json/champions/spiderpunk.json
+Spider-Slayer (J. Jonah Jameson) | JJJ | Tech | 1/15/2026 | 04 | https://mcoc.gg/json/champions/jjj.json
+Spider-Woman |  | Science | 4/17/2025 | 04 | https://mcoc.gg/json/champions/spiderwoman.json
+Spiral |  | Mystic | 11/14/2024 | 04 | https://mcoc.gg/json/champions/spiral.json
+Spot |  | Science | 10/27/2022 | 04 | https://mcoc.gg/json/champions/spot.json
+Squirrel Girl |  | Skill | 1/9/2020 | 04 | https://mcoc.gg/json/champions/squirrelgirl.json
+Star-Lord |  | Tech | 12/10/2014 | 04 | https://mcoc.gg/json/champions/starlord.json
+Star-Lord (Stellar-Forged) |  | Skill | 1/28/2026 | 04 | https://mcoc.gg/json/champions/stellarstarlord.json
+Storm |  | Mutant | 12/10/2014 | 04 | https://mcoc.gg/json/champions/storm.json
+Storm (Pyramid X) |  | Mutant | 4/23/2020 | 04 | https://mcoc.gg/json/champions/stormpyramidx.json
+Stryfe |  | Mutant | 1/28/2021 | 04 | https://mcoc.gg/json/champions/stryfe.json
+Summoned Symbiote | Steve | Superior | 10/2/2018 | 04 | https://mcoc.gg/json/champions/summonedsymbiote.json
+Sunspot |  | Mutant | 8/8/2019 | 04 | https://mcoc.gg/json/champions/sunspot.json
+Super Skrull |  | Cosmic | 2/25/2021 | 04 | https://mcoc.gg/json/champions/superskrull.json
+Superior Iron Man |  | Cosmic | 2/19/2015 | 04 | https://mcoc.gg/json/champions/superiorironman.json
+Symbioid (Cosmic) |  | Cosmic | 8/8/2025 | 04 | https://mcoc.gg/json/champions/symbioidcosmic.json
+Symbioid (Mutant) |  | Mutant | 8/8/2025 | 04 | https://mcoc.gg/json/champions/symbioidmutant.json
+Symbioid (Mystic) |  | Mystic | 8/8/2025 | 04 | https://mcoc.gg/json/champions/symbioidmystic.json
+Symbioid (Science) |  | Science | 8/8/2025 | 04 | https://mcoc.gg/json/champions/symbioidscience.json
+Symbioid (Skill) |  | Skill | 8/8/2025 | 04 | https://mcoc.gg/json/champions/symbioidskill.json
+Symbioid (Tech) |  | Tech | 8/8/2025 | 04 | https://mcoc.gg/json/champions/symbioidtech.json
+Symbiote Supreme |  | Mystic | 10/11/2018 | 04 | https://mcoc.gg/json/champions/symbiotesupreme.json
+Taskmaster |  | Skill | 12/7/2017 | 04 | https://mcoc.gg/json/champions/taskmaster.json
+Terrax | Terry | Cosmic | 3/26/2020 | 04 | https://mcoc.gg/json/champions/terrax.json
+Thanos |  | Cosmic | 8/17/2016 | 04 | https://mcoc.gg/json/champions/thanos.json
+Thanos (Deathless) |  | Cosmic | 1/8/2025 | 04 | https://mcoc.gg/json/champions/deathlessthanos.json
+The Champion |  | Cosmic | 11/8/2018 | 04 | https://mcoc.gg/json/champions/thechampion.json
+The Destroyer |  | Mystic | 3/28/2024 | 04 | https://mcoc.gg/json/champions/thedestroyer.json
+The Hood |  | Mystic | 2/2/2017 | 04 | https://mcoc.gg/json/champions/thehood.json
+The Leader |  | Science | 8/1/2024 | 04 | https://mcoc.gg/json/champions/theleader.json
+The Maker |  | Tech | 7/17/2025 | 04 | https://mcoc.gg/json/champions/themaker.json
+The Overseer |  | Science | 6/24/2021 | 04 | https://mcoc.gg/json/champions/theoverseer.json
+The Serpent |  | Cosmic | 3/14/2024 | 04 | https://mcoc.gg/json/champions/theserpent.json
+Thing |  | Science | 1/10/2019 | 04 | https://mcoc.gg/json/champions/thing.json
+Thor |  | Cosmic | 12/10/2014 | 04 | https://mcoc.gg/json/champions/thor.json
+Thor (Jane Foster) |  | Mystic | 12/10/2015 | 04 | https://mcoc.gg/json/champions/thorjanefoster.json
+Thor (Ragnarok) |  | Skill | 11/9/2017 | 04 | https://mcoc.gg/json/champions/thorragnarok.json
+Tigra |  | Mystic | 6/11/2020 | 04 | https://mcoc.gg/json/champions/tigra.json
+Titania |  | Science | 9/15/2022 | 04 | https://mcoc.gg/json/champions/titania.json
+Toad |  | Mutant | 1/13/2022 | 04 | https://mcoc.gg/json/champions/toad.json
+Ultron |  | Tech | 6/4/2015 | 04 | https://mcoc.gg/json/champions/ultron.json
+Ultron (Classic) |  | Tech | 8/17/2016 | 04 | https://mcoc.gg/json/champions/ultronclassic.json
+Unstoppable Colossus |  | Mystic | 2/25/2015 | 04 | https://mcoc.gg/json/champions/unstoppablecolossus.json
+Valkyrie |  | Skill | 7/28/2022 | 04 | https://mcoc.gg/json/champions/valkyrie.json
+Venom |  | Cosmic | 10/29/2015 | 04 | https://mcoc.gg/json/champions/venom.json
+Venom the Duck | VTD | Cosmic | 10/16/2018 | 04 | https://mcoc.gg/json/champions/venomtheduck.json
+Venompool |  | Cosmic | 2/18/2016 | 04 | https://mcoc.gg/json/champions/venompool.json
+Vision |  | Tech | 12/10/2014 | 04 | https://mcoc.gg/json/champions/vision.json
+Vision (Aarkus) |  | Cosmic | 9/19/2019 | 04 | https://mcoc.gg/json/champions/visionaarkus.json
+Vision (Age of Ultron) |  | Tech | 5/14/2015 | 04 | https://mcoc.gg/json/champions/visionaou.json
+Vision (Deathless) |  | Tech | 7/20/2024 | 04 | https://mcoc.gg/json/champions/deathlessvision.json
+Viv Vision |  | Tech | 3/16/2023 | 04 | https://mcoc.gg/json/champions/vivvision.json
+Void |  | Science | 1/18/2018 | 04 | https://mcoc.gg/json/champions/void.json
+Vox |  | Cosmic | 8/31/2023 | 04 | https://mcoc.gg/json/champions/vox.json
+Vulture |  | Tech | 7/20/2017 | 04 | https://mcoc.gg/json/champions/vulture.json
+War Machine |  | Tech | 8/14/2015 | 04 | https://mcoc.gg/json/champions/warmachine.json
+Warlock |  | Tech | 8/22/2019 | 04 | https://mcoc.gg/json/champions/warlock.json
+Wasp |  | Science | 7/5/2018 | 04 | https://mcoc.gg/json/champions/wasp.json
+Wave |  | Science | 5/28/2026 | 04 | https://mcoc.gg/json/champions/wave.json
+Werewolf By Night | Wolf | Mystic | 10/27/2023 | 04 | https://mcoc.gg/json/champions/werewolfbynight.json
+White Tiger |  | Mystic | 2/1/2024 | 04 | https://mcoc.gg/json/champions/whitetiger.json
+Wiccan |  | Mystic | 6/30/2022 | 04 | https://mcoc.gg/json/champions/wiccan.json
+Winter Soldier |  | Skill | 12/10/2014 | 04 | https://mcoc.gg/json/champions/wintersoldier.json
+Wolverine |  | Mutant | 12/10/2014 | 04 | https://mcoc.gg/json/champions/wolverine.json
+Wolverine (Weapon X) |  | Mutant | 3/11/2020 | 04 | https://mcoc.gg/json/champions/weaponx.json
+Wolverine (X-23) | Laura | Mutant | 3/17/2016 | 04 | https://mcoc.gg/json/champions/wolverinex23.json
+Wong | Wongers | Mystic | 5/26/2022 | 04 | https://mcoc.gg/json/champions/wong.json
+Yelena Belova |  | Skill | 5/15/2025 | 04 | https://mcoc.gg/json/champions/yelenabelova.json
+Yellowjacket |  | Science | 7/30/2015 | 04 | https://mcoc.gg/json/champions/yellowjacket.json
+Yondu |  | Tech | 5/25/2017 | 04 | https://mcoc.gg/json/champions/yondu.json
