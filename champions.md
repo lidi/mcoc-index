@@ -1,12 +1,12 @@
-# MCOC Champion Index (364 champions, source: mcoc.gg public data, refreshed daily)
+# MCOC Champion Index (369 champions, source: mcoc.gg public data, refreshed daily)
 
 Ability text: open the link in the last column of the champion's row.
 
 Detail files (effects, immunities, reacts-to, tags):
-- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/01.md : Abomination - Falcon (Joaquin Torres)
-- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/02.md : Franken-Castle - Mister Sinister
-- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/03.md : Misty Knight - Spider-Man 2099
-- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/04.md : Spider-Man Noir - Yondu
+- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/01.md : Abomination - Ghost Rider
+- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/02.md : Ghost Rider (Robbie Reyes) - Mysterio
+- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/03.md : Namor - Symbiote Supreme
+- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/04.md : Taskmaster - Yondu
 
 Columns: name | alias | class | release date | details file | ability text link
 
@@ -109,13 +109,13 @@ Emma Frost |  | Mutant | 9/27/2018 | 01 | https://mcoc.gg/json/champions/emmafro
 Enchantress |  | Mystic | 8/29/2024 | 01 | https://mcoc.gg/json/champions/enchantress.json
 Falcon |  | Skill | 6/9/2016 | 01 | https://mcoc.gg/json/champions/falcon.json
 Falcon (Joaquin Torres) |  | Science | 2/27/2025 | 01 | https://mcoc.gg/json/champions/falcontorres.json
-Franken-Castle |  | Skill | 10/30/2025 | 02 | https://mcoc.gg/json/champions/frankencastle.json
-Galan |  | Cosmic | 8/11/2022 | 02 | https://mcoc.gg/json/champions/galan.json
-Gambit |  | Mutant | 8/18/2016 | 02 | https://mcoc.gg/json/champions/gambit.json
-Gamora |  | Cosmic | 12/10/2014 | 02 | https://mcoc.gg/json/champions/gamora.json
-Gentle |  | Mutant | 1/30/2025 | 02 | https://mcoc.gg/json/champions/gentle.json
-Ghost |  | Tech | 7/19/2018 | 02 | https://mcoc.gg/json/champions/ghost.json
-Ghost Rider |  | Mystic | 10/27/2016 | 02 | https://mcoc.gg/json/champions/ghostrider.json
+Franken-Castle |  | Skill | 10/30/2025 | 01 | https://mcoc.gg/json/champions/frankencastle.json
+Galan |  | Cosmic | 8/11/2022 | 01 | https://mcoc.gg/json/champions/galan.json
+Gambit |  | Mutant | 8/18/2016 | 01 | https://mcoc.gg/json/champions/gambit.json
+Gamora |  | Cosmic | 12/10/2014 | 01 | https://mcoc.gg/json/champions/gamora.json
+Gentle |  | Mutant | 1/30/2025 | 01 | https://mcoc.gg/json/champions/gentle.json
+Ghost |  | Tech | 7/19/2018 | 01 | https://mcoc.gg/json/champions/ghost.json
+Ghost Rider |  | Mystic | 10/27/2016 | 01 | https://mcoc.gg/json/champions/ghostrider.json
 Ghost Rider (Robbie Reyes) |  | Mystic | 10/29/2026 | 02 | https://mcoc.gg/json/champions/ghostriderreyes.json
 Gladiator |  | Cosmic | 9/14/2023 | 02 | https://mcoc.gg/json/champions/gladiator.json
 Goldpool |  | Mutant | 6/6/2018 | 02 | https://mcoc.gg/json/champions/goldpool.json
@@ -150,11 +150,13 @@ Hulk (Ragnarok) | GHulk | Science | 2/1/2018 | 02 | https://mcoc.gg/json/champio
 Hulkbuster |  | Tech | 5/21/2015 | 02 | https://mcoc.gg/json/champions/hulkbuster.json
 Hulkling |  | Cosmic | 6/16/2022 | 02 | https://mcoc.gg/json/champions/hulkling.json
 Human Torch |  | Science | 4/18/2019 | 02 | https://mcoc.gg/json/champions/humantorch.json
+Human Torch (Victorious) |  | Science | 11/2/2026 | 02 | https://mcoc.gg/json/champions/victorioushumantorch.json
 Hyperion |  | Cosmic | 12/8/2016 | 02 | https://mcoc.gg/json/champions/hyperion.json
 Iceman |  | Mutant | 3/30/2017 | 02 | https://mcoc.gg/json/champions/iceman.json
 Ikaris |  | Cosmic | 11/25/2021 | 02 | https://mcoc.gg/json/champions/ikaris.json
 Imperiosa |  | Cosmic | 12/9/2025 | 02 | https://mcoc.gg/json/champions/imperiosa.json
 Invisible Woman |  | Science | 6/27/2019 | 02 | https://mcoc.gg/json/champions/invisiblewoman.json
+Invisible Woman (Victorious) |  | Science | 11/2/2026 | 02 | https://mcoc.gg/json/champions/victoriousinvisiblewoman.json
 Iron Fist |  | Mystic | 12/10/2014 | 02 | https://mcoc.gg/json/champions/ironfist.json
 Iron Fist (Immortal) |  | Mystic | 8/20/2015 | 02 | https://mcoc.gg/json/champions/ironfistimmortal.json
 Iron Man |  | Tech | 12/10/2014 | 02 | https://mcoc.gg/json/champions/ironman.json
@@ -204,20 +206,21 @@ Masacre |  | Skill | 6/21/2018 | 02 | https://mcoc.gg/json/champions/masacre.jso
 Medusa |  | Cosmic | 9/14/2017 | 02 | https://mcoc.gg/json/champions/medusa.json
 Mephisto |  | Mystic | 9/28/2017 | 02 | https://mcoc.gg/json/champions/mephisto.json
 Mister Fantastic | Reed | Science | 11/28/2019 | 02 | https://mcoc.gg/json/champions/misterfantastic.json
+Mister Fantastic (Victorious) |  | Science | 11/2/2026 | 02 | https://mcoc.gg/json/champions/victoriousmisterfantastic.json
 Mister Negative | Negs | Science | 5/27/2021 | 02 | https://mcoc.gg/json/champions/misternegative.json
 Mister Sinister |  | Mutant | 2/11/2019 | 02 | https://mcoc.gg/json/champions/mistersinister.json
-Misty Knight |  | Skill | 3/3/2022 | 03 | https://mcoc.gg/json/champions/mistyknight.json
-Mojo |  | Mystic | 2/27/2020 | 03 | https://mcoc.gg/json/champions/mojo.json
-Mole Man |  | Skill | 3/12/2020 | 03 | https://mcoc.gg/json/champions/moleman.json
-Moon Knight |  | Skill | 9/24/2015 | 03 | https://mcoc.gg/json/champions/moonknight.json
-Moondragon |  | Skill | 5/11/2023 | 03 | https://mcoc.gg/json/champions/moondragon.json
-Morbius |  | Science | 10/13/2023 | 03 | https://mcoc.gg/json/champions/morbius.json
-Mordo |  | Mystic | 11/10/2016 | 03 | https://mcoc.gg/json/champions/mordo.json
-Morningstar |  | Mystic | 10/12/2017 | 03 | https://mcoc.gg/json/champions/morningstar.json
-Mr. Knight |  | Skill | 9/25/2025 | 03 | https://mcoc.gg/json/champions/mrknight.json
-Ms. Marvel |  | Cosmic | 4/2/2015 | 03 | https://mcoc.gg/json/champions/msmarvel.json
-Ms. Marvel (Kamala Khan) |  | Cosmic | 3/31/2016 | 03 | https://mcoc.gg/json/champions/msmarvelkamalakhan.json
-Mysterio |  | Tech | 7/25/2019 | 03 | https://mcoc.gg/json/champions/mysterio.json
+Misty Knight |  | Skill | 3/3/2022 | 02 | https://mcoc.gg/json/champions/mistyknight.json
+Mojo |  | Mystic | 2/27/2020 | 02 | https://mcoc.gg/json/champions/mojo.json
+Mole Man |  | Skill | 3/12/2020 | 02 | https://mcoc.gg/json/champions/moleman.json
+Moon Knight |  | Skill | 9/24/2015 | 02 | https://mcoc.gg/json/champions/moonknight.json
+Moondragon |  | Skill | 5/11/2023 | 02 | https://mcoc.gg/json/champions/moondragon.json
+Morbius |  | Science | 10/13/2023 | 02 | https://mcoc.gg/json/champions/morbius.json
+Mordo |  | Mystic | 11/10/2016 | 02 | https://mcoc.gg/json/champions/mordo.json
+Morningstar |  | Mystic | 10/12/2017 | 02 | https://mcoc.gg/json/champions/morningstar.json
+Mr. Knight |  | Skill | 9/25/2025 | 02 | https://mcoc.gg/json/champions/mrknight.json
+Ms. Marvel |  | Cosmic | 4/2/2015 | 02 | https://mcoc.gg/json/champions/msmarvel.json
+Ms. Marvel (Kamala Khan) |  | Cosmic | 3/31/2016 | 02 | https://mcoc.gg/json/champions/msmarvelkamalakhan.json
+Mysterio |  | Tech | 7/25/2019 | 02 | https://mcoc.gg/json/champions/mysterio.json
 Namor |  | Mutant | 6/13/2019 | 03 | https://mcoc.gg/json/champions/namor.json
 Nebula |  | Tech | 5/11/2017 | 03 | https://mcoc.gg/json/champions/nebula.json
 Negasonic Teenage Warhead |  | Mutant | 5/16/2024 | 03 | https://mcoc.gg/json/champions/negasonic.json
@@ -303,29 +306,30 @@ Spider-Man (Stealth Suit) |  | Skill | 7/11/2019 | 03 | https://mcoc.gg/json/cha
 Spider-Man (Supreme) |  | Mystic | 10/13/2022 | 03 | https://mcoc.gg/json/champions/spidermansupreme.json
 Spider-Man (Symbiote) |  | Cosmic | 9/10/2015 | 03 | https://mcoc.gg/json/champions/spidermansymbiote.json
 Spider-Man 2099 |  | Science | 8/12/2021 | 03 | https://mcoc.gg/json/champions/spiderman2099.json
-Spider-Man Noir |  | Skill | 9/24/2026 | 04 | https://mcoc.gg/json/champions/spidermannoir.json
-Spider-Punk | Punk | Science | 4/25/2024 | 04 | https://mcoc.gg/json/champions/spiderpunk.json
-Spider-Slayer (J. Jonah Jameson) | JJJ | Tech | 1/15/2026 | 04 | https://mcoc.gg/json/champions/jjj.json
-Spider-Woman |  | Science | 4/17/2025 | 04 | https://mcoc.gg/json/champions/spiderwoman.json
-Spiral |  | Mystic | 11/14/2024 | 04 | https://mcoc.gg/json/champions/spiral.json
-Spot |  | Science | 10/27/2022 | 04 | https://mcoc.gg/json/champions/spot.json
-Squirrel Girl |  | Skill | 1/9/2020 | 04 | https://mcoc.gg/json/champions/squirrelgirl.json
-Star-Lord |  | Tech | 12/10/2014 | 04 | https://mcoc.gg/json/champions/starlord.json
-Star-Lord (Stellar-Forged) |  | Skill | 1/28/2026 | 04 | https://mcoc.gg/json/champions/stellarstarlord.json
-Storm |  | Mutant | 12/10/2014 | 04 | https://mcoc.gg/json/champions/storm.json
-Storm (Pyramid X) |  | Mutant | 4/23/2020 | 04 | https://mcoc.gg/json/champions/stormpyramidx.json
-Stryfe |  | Mutant | 1/28/2021 | 04 | https://mcoc.gg/json/champions/stryfe.json
-Summoned Symbiote | Steve | Superior | 10/2/2018 | 04 | https://mcoc.gg/json/champions/summonedsymbiote.json
-Sunspot |  | Mutant | 8/8/2019 | 04 | https://mcoc.gg/json/champions/sunspot.json
-Super Skrull |  | Cosmic | 2/25/2021 | 04 | https://mcoc.gg/json/champions/superskrull.json
-Superior Iron Man |  | Cosmic | 2/19/2015 | 04 | https://mcoc.gg/json/champions/superiorironman.json
-Symbioid (Cosmic) |  | Cosmic | 8/8/2025 | 04 | https://mcoc.gg/json/champions/symbioidcosmic.json
-Symbioid (Mutant) |  | Mutant | 8/8/2025 | 04 | https://mcoc.gg/json/champions/symbioidmutant.json
-Symbioid (Mystic) |  | Mystic | 8/8/2025 | 04 | https://mcoc.gg/json/champions/symbioidmystic.json
-Symbioid (Science) |  | Science | 8/8/2025 | 04 | https://mcoc.gg/json/champions/symbioidscience.json
-Symbioid (Skill) |  | Skill | 8/8/2025 | 04 | https://mcoc.gg/json/champions/symbioidskill.json
-Symbioid (Tech) |  | Tech | 8/8/2025 | 04 | https://mcoc.gg/json/champions/symbioidtech.json
-Symbiote Supreme |  | Mystic | 10/11/2018 | 04 | https://mcoc.gg/json/champions/symbiotesupreme.json
+Spider-Man Noir |  | Skill | 9/24/2026 | 03 | https://mcoc.gg/json/champions/spidermannoir.json
+Spider-Punk | Punk | Science | 4/25/2024 | 03 | https://mcoc.gg/json/champions/spiderpunk.json
+Spider-Slayer (J. Jonah Jameson) | JJJ | Tech | 1/15/2026 | 03 | https://mcoc.gg/json/champions/jjj.json
+Spider-Woman |  | Science | 4/17/2025 | 03 | https://mcoc.gg/json/champions/spiderwoman.json
+Spiral |  | Mystic | 11/14/2024 | 03 | https://mcoc.gg/json/champions/spiral.json
+Spot |  | Science | 10/27/2022 | 03 | https://mcoc.gg/json/champions/spot.json
+Squirrel Girl |  | Skill | 1/9/2020 | 03 | https://mcoc.gg/json/champions/squirrelgirl.json
+Star-Lord |  | Tech | 12/10/2014 | 03 | https://mcoc.gg/json/champions/starlord.json
+Star-Lord (Kitty Pryde) |  | Tech | 11/12/2026 | 03 | https://mcoc.gg/json/champions/starlordkittypryde.json
+Star-Lord (Stellar-Forged) |  | Skill | 1/28/2026 | 03 | https://mcoc.gg/json/champions/stellarstarlord.json
+Storm |  | Mutant | 12/10/2014 | 03 | https://mcoc.gg/json/champions/storm.json
+Storm (Pyramid X) |  | Mutant | 4/23/2020 | 03 | https://mcoc.gg/json/champions/stormpyramidx.json
+Stryfe |  | Mutant | 1/28/2021 | 03 | https://mcoc.gg/json/champions/stryfe.json
+Summoned Symbiote | Steve | Superior | 10/2/2018 | 03 | https://mcoc.gg/json/champions/summonedsymbiote.json
+Sunspot |  | Mutant | 8/8/2019 | 03 | https://mcoc.gg/json/champions/sunspot.json
+Super Skrull |  | Cosmic | 2/25/2021 | 03 | https://mcoc.gg/json/champions/superskrull.json
+Superior Iron Man |  | Cosmic | 2/19/2015 | 03 | https://mcoc.gg/json/champions/superiorironman.json
+Symbioid (Cosmic) |  | Cosmic | 8/8/2025 | 03 | https://mcoc.gg/json/champions/symbioidcosmic.json
+Symbioid (Mutant) |  | Mutant | 8/8/2025 | 03 | https://mcoc.gg/json/champions/symbioidmutant.json
+Symbioid (Mystic) |  | Mystic | 8/8/2025 | 03 | https://mcoc.gg/json/champions/symbioidmystic.json
+Symbioid (Science) |  | Science | 8/8/2025 | 03 | https://mcoc.gg/json/champions/symbioidscience.json
+Symbioid (Skill) |  | Skill | 8/8/2025 | 03 | https://mcoc.gg/json/champions/symbioidskill.json
+Symbioid (Tech) |  | Tech | 8/8/2025 | 03 | https://mcoc.gg/json/champions/symbioidtech.json
+Symbiote Supreme |  | Mystic | 10/11/2018 | 03 | https://mcoc.gg/json/champions/symbiotesupreme.json
 Taskmaster |  | Skill | 12/7/2017 | 04 | https://mcoc.gg/json/champions/taskmaster.json
 Terrax | Terry | Cosmic | 3/26/2020 | 04 | https://mcoc.gg/json/champions/terrax.json
 Thanos |  | Cosmic | 8/17/2016 | 04 | https://mcoc.gg/json/champions/thanos.json
@@ -338,6 +342,7 @@ The Maker |  | Tech | 7/17/2025 | 04 | https://mcoc.gg/json/champions/themaker.j
 The Overseer |  | Science | 6/24/2021 | 04 | https://mcoc.gg/json/champions/theoverseer.json
 The Serpent |  | Cosmic | 3/14/2024 | 04 | https://mcoc.gg/json/champions/theserpent.json
 Thing |  | Science | 1/10/2019 | 04 | https://mcoc.gg/json/champions/thing.json
+Thing (Victorious) |  | Science | 11/2/2026 | 04 | https://mcoc.gg/json/champions/victoriousthing.json
 Thor |  | Cosmic | 12/10/2014 | 04 | https://mcoc.gg/json/champions/thor.json
 Thor (Jane Foster) |  | Mystic | 12/10/2015 | 04 | https://mcoc.gg/json/champions/thorjanefoster.json
 Thor (Ragnarok) |  | Skill | 11/9/2017 | 04 | https://mcoc.gg/json/champions/thorragnarok.json
