@@ -3,10 +3,10 @@
 Ability text: open the link in the last column of the champion's row.
 
 Detail files (effects, immunities, reacts-to, tags):
-- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/01.md : Abomination - Ghost Rider
-- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/02.md : Ghost Rider (Robbie Reyes) - Mysterio
-- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/03.md : Namor - Symbiote Supreme
-- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/04.md : Taskmaster - Yondu
+- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/01.md : Abomination - Ghost
+- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/02.md : Ghost Rider - Ms. Marvel (Kamala Khan)
+- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/03.md : Mysterio - Symbioid (Science)
+- https://raw.githubusercontent.com/lidi/mcoc-index/main/details/04.md : Symbioid (Skill) - Yondu
 
 Columns: name | alias | class | release date | details file | ability text link
 
@@ -55,7 +55,7 @@ Bullseye |  | Skill | 1/18/2024 | 01 | https://mcoc.gg/json/champions/bullseye.j
 Cable |  | Mutant | 1/19/2017 | 01 | https://mcoc.gg/json/champions/cable.json
 Captain America |  | Science | 12/10/2014 | 01 | https://mcoc.gg/json/champions/captainamerica.json
 Captain America (Infinity War) | CapIW | Science | 5/10/2018 | 01 | https://mcoc.gg/json/champions/captainamericaiw.json
-Captain America (Sam Wilson) |  | Tech | 2/18/2022 | 01 | https://mcoc.gg/json/champions/samwilson.json
+Captain America (Sam Wilson) | Cap Sam | Tech | 2/18/2022 | 01 | https://mcoc.gg/json/champions/samwilson.json
 Captain America (WWII) |  | Science | 7/2/2015 | 01 | https://mcoc.gg/json/champions/captainamericawwii.json
 Captain Britain |  | Mutant | 3/17/2022 | 01 | https://mcoc.gg/json/champions/captainbritain.json
 Captain Marvel | cmm | Cosmic | 3/7/2019 | 01 | https://mcoc.gg/json/champions/captainmarvelmcu.json
@@ -115,7 +115,7 @@ Gambit |  | Mutant | 8/18/2016 | 01 | https://mcoc.gg/json/champions/gambit.json
 Gamora |  | Cosmic | 12/10/2014 | 01 | https://mcoc.gg/json/champions/gamora.json
 Gentle |  | Mutant | 1/30/2025 | 01 | https://mcoc.gg/json/champions/gentle.json
 Ghost |  | Tech | 7/19/2018 | 01 | https://mcoc.gg/json/champions/ghost.json
-Ghost Rider |  | Mystic | 10/27/2016 | 01 | https://mcoc.gg/json/champions/ghostrider.json
+Ghost Rider |  | Mystic | 10/27/2016 | 02 | https://mcoc.gg/json/champions/ghostrider.json
 Ghost Rider (Robbie Reyes) |  | Mystic | 10/29/2026 | 02 | https://mcoc.gg/json/champions/ghostriderreyes.json
 Gladiator |  | Cosmic | 9/14/2023 | 02 | https://mcoc.gg/json/champions/gladiator.json
 Goldpool |  | Mutant | 6/6/2018 | 02 | https://mcoc.gg/json/champions/goldpool.json
@@ -198,7 +198,7 @@ Madelyne Pryor |  | Mystic | 3/26/2026 | 02 | https://mcoc.gg/json/champions/mad
 Maestro |  | Cosmic | 11/15/2023 | 02 | https://mcoc.gg/json/champions/maestro.json
 Magik |  | Mystic | 1/22/2015 | 02 | https://mcoc.gg/json/champions/magik.json
 Magneto |  | Mutant | 6/18/2015 | 02 | https://mcoc.gg/json/champions/magneto.json
-Magneto (House of X) |  | Mutant | 8/27/2015 | 02 | https://mcoc.gg/json/champions/magnetomarvelnow.json
+Magneto (House of X) | White Mags | Mutant | 8/27/2015 | 02 | https://mcoc.gg/json/champions/magnetomarvelnow.json
 Man-Thing |  | Mystic | 10/17/2019 | 02 | https://mcoc.gg/json/champions/manthing.json
 Mangog |  | Mystic | 3/11/2021 | 02 | https://mcoc.gg/json/champions/mangog.json
 Mantis |  | Skill | 12/15/2022 | 02 | https://mcoc.gg/json/champions/mantis.json
@@ -220,7 +220,7 @@ Morningstar |  | Mystic | 10/12/2017 | 02 | https://mcoc.gg/json/champions/morni
 Mr. Knight |  | Skill | 9/25/2025 | 02 | https://mcoc.gg/json/champions/mrknight.json
 Ms. Marvel |  | Cosmic | 4/2/2015 | 02 | https://mcoc.gg/json/champions/msmarvel.json
 Ms. Marvel (Kamala Khan) |  | Cosmic | 3/31/2016 | 02 | https://mcoc.gg/json/champions/msmarvelkamalakhan.json
-Mysterio |  | Tech | 7/25/2019 | 02 | https://mcoc.gg/json/champions/mysterio.json
+Mysterio |  | Tech | 7/25/2019 | 03 | https://mcoc.gg/json/champions/mysterio.json
 Namor |  | Mutant | 6/13/2019 | 03 | https://mcoc.gg/json/champions/namor.json
 Nebula |  | Tech | 5/11/2017 | 03 | https://mcoc.gg/json/champions/nebula.json
 Negasonic Teenage Warhead |  | Mutant | 5/16/2024 | 03 | https://mcoc.gg/json/champions/negasonic.json
@@ -327,9 +327,9 @@ Symbioid (Cosmic) |  | Cosmic | 8/8/2025 | 03 | https://mcoc.gg/json/champions/s
 Symbioid (Mutant) |  | Mutant | 8/8/2025 | 03 | https://mcoc.gg/json/champions/symbioidmutant.json
 Symbioid (Mystic) |  | Mystic | 8/8/2025 | 03 | https://mcoc.gg/json/champions/symbioidmystic.json
 Symbioid (Science) |  | Science | 8/8/2025 | 03 | https://mcoc.gg/json/champions/symbioidscience.json
-Symbioid (Skill) |  | Skill | 8/8/2025 | 03 | https://mcoc.gg/json/champions/symbioidskill.json
-Symbioid (Tech) |  | Tech | 8/8/2025 | 03 | https://mcoc.gg/json/champions/symbioidtech.json
-Symbiote Supreme |  | Mystic | 10/11/2018 | 03 | https://mcoc.gg/json/champions/symbiotesupreme.json
+Symbioid (Skill) |  | Skill | 8/8/2025 | 04 | https://mcoc.gg/json/champions/symbioidskill.json
+Symbioid (Tech) |  | Tech | 8/8/2025 | 04 | https://mcoc.gg/json/champions/symbioidtech.json
+Symbiote Supreme |  | Mystic | 10/11/2018 | 04 | https://mcoc.gg/json/champions/symbiotesupreme.json
 Taskmaster |  | Skill | 12/7/2017 | 04 | https://mcoc.gg/json/champions/taskmaster.json
 Terrax | Terry | Cosmic | 3/26/2020 | 04 | https://mcoc.gg/json/champions/terrax.json
 Thanos |  | Cosmic | 8/17/2016 | 04 | https://mcoc.gg/json/champions/thanos.json
